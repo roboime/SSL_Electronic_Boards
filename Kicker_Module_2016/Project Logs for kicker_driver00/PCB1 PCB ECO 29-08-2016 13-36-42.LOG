@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NetConIC1_5 Pin=P1-10
+Change Net Name : Old Net Name=NetConIC1_5 New Net Name=KICK_REF

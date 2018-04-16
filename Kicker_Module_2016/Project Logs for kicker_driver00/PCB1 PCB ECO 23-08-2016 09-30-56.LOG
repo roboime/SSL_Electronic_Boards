@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=CAP?-1
+Removed Pin From Net: NetName=GND Pin=IC?-6
+Removed Pin From Net: NetName=GND Pin=IC?-6
+Removed Pin From Net: NetName=GND Pin=IC?-6
+Removed Pin From Net: NetName=GND Pin=L1_2-1
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=NetIC?_1 Pin=R?-2
+Change Component Designator: OldDesignator=C? NewDesignator=BoostC1
+Change Component Designator: OldDesignator=C? NewDesignator=ConC1
+Change Component Designator: OldDesignator=C? NewDesignator=KickC1
+Change Component Designator: OldDesignator=C? NewDesignator=KickC1
+Change Component Designator: OldDesignator=C? NewDesignator=KickC3
+Change Component Designator: OldDesignator=C? NewDesignator=KickC4
+Change Component Designator: OldDesignator=C? NewDesignator=SwC1
+Change Component Designator: OldDesignator=C? NewDesignator=SwC2
+Change Component Designator: OldDesignator=C? NewDesignator=SwC3
+Change Component Designator: OldDesignator=CAP? NewDesignator=P2C1
+Change Component Designator: OldDesignator=D? NewDesignator=BoostD1
+Change Component Designator: OldDesignator=D? NewDesignator=P4D1
+Change Component Designator: OldDesignator=D? NewDesignator=P5D1
+Change Component Designator: OldDesignator=D? NewDesignator=SwD1
+Change Component Designator: OldDesignator=IC? NewDesignator=ConIC1
+Change Component Designator: OldDesignator=IC? NewDesignator=KickIC1
+Change Component Designator: OldDesignator=IC? NewDesignator=SwIC1
+Change Component Designator: OldDesignator=L1_2 NewDesignator=BoostL1L2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=Q? NewDesignator=KickQ1
+Change Component Designator: OldDesignator=Q? NewDesignator=KickQ2
+Change Component Designator: OldDesignator=Q? NewDesignator=SwQ
+Change Component Designator: OldDesignator=R? NewDesignator=ConR2
+Change Component Designator: OldDesignator=R? NewDesignator=ConR3
+Change Component Designator: OldDesignator=R? NewDesignator=KickR1
+Change Component Designator: OldDesignator=R? NewDesignator=KickR1
+Change Component Designator: OldDesignator=R? NewDesignator=SwR1
+Added Component: Designator=P2(HDR1X12)
+Added Pin To Net: NetName=CAP+ Pin=ConR2-2
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=GND Pin=P2-11
+Added Pin To Net: NetName=GND Pin=P2-12
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetSwC3_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetKickC1_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetSwD1_1
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetConIC1_1
+Change Net Name : Old Net Name=NetIC?_5 New Net Name=NetKickIC1_5
+Change Net Name : Old Net Name=NetIC?_7 New Net Name=NetKickIC1_7
+Added Pin To Net: NetName=NetBoostC1_1 Pin=BoostC1-1
+Added Pin To Net: NetName=NetBoostC1_1 Pin=BoostL1L2-4
+Added Pin To Net: NetName=NetBoostC1_1 Pin=SwQ-2
+Added Pin To Net: NetName=NetBoostC1_1 Pin=SwR1-2
+Added Net: Name=NetBoostC1_1
+Added Pin To Net: NetName=NetConC1_1 Pin=ConC1-1
+Added Pin To Net: NetName=NetConC1_1 Pin=ConIC1-3
+Added Net: Name=NetConC1_1
+Added Pin To Net: NetName=NetConIC1_5 Pin=ConIC1-5
+Added Pin To Net: NetName=NetConIC1_5 Pin=ConR2-1
+Added Pin To Net: NetName=NetConIC1_5 Pin=ConR3-2
+Added Net: Name=NetConIC1_5
+Added Pin To Net: NetName=V+ Pin=BoostL1L2-1
+Added Pin To Net: NetName=V+ Pin=ConIC1-6
+Added Pin To Net: NetName=V+ Pin=KickC3-2
+Added Pin To Net: NetName=V+ Pin=KickC4-1
+Added Pin To Net: NetName=V+ Pin=KickIC1-6
+Added Pin To Net: NetName=V+ Pin=P2-1
+Added Pin To Net: NetName=V+ Pin=P2-2
+Added Pin To Net: NetName=V+ Pin=P2-3
+Added Pin To Net: NetName=V+ Pin=P2-4
+Added Pin To Net: NetName=V+ Pin=P2-5
+Added Pin To Net: NetName=V+ Pin=P2-6
+Added Pin To Net: NetName=V+ Pin=P2C1-1
+Added Pin To Net: NetName=V+ Pin=SwC1-2
+Added Pin To Net: NetName=V+ Pin=SwC2-1
+Added Pin To Net: NetName=V+ Pin=SwIC1-6
+Added Net: Name=V+
+Added Member To Class: ClassName=Sheet1 Member=Component BoostC1 CGA9P4X7T2W105M250KE
+Added Member To Class: ClassName=Sheet1 Member=Component BoostD1 MURS360BT3G
+Added Member To Class: ClassName=Sheet1 Member=Component ConC1 GRM155R71H102KA01D
+Added Member To Class: ClassName=Sheet1 Member=Component ConR2 RC0402JR-07470KL
+Added Member To Class: ClassName=Sheet1 Member=Component ConR3 RC0402JR-073K3L
+Added Member To Class: ClassName=Sheet1 Member=Component KickC1 C4532X7R2E474K230KA
+Added Member To Class: ClassName=Sheet1 Member=Component KickC3 GRM155R71C104KA88D
+Added Member To Class: ClassName=Sheet1 Member=Component KickC4 T491A475M025AT
+Added Member To Class: ClassName=Sheet1 Member=Component KickIC1 IR4427STRPBF
+Added Member To Class: ClassName=Sheet1 Member=Component KickQ1 IRG4PC50FD-EPBF
+Added Member To Class: ClassName=Sheet1 Member=Component KickR1 PF1206FRF070R02L
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 12
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 12
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P4D1 MURS360BT3G
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component SwC1 GRM155R71C104KA88D
+Added Member To Class: ClassName=Sheet1 Member=Component SwC2 T491A475M025AT
+Added Member To Class: ClassName=Sheet1 Member=Component SwC3 GRM155R61A474KE15D
+Added Member To Class: ClassName=Sheet1 Member=Component SwD1 MMSZ18T1G
+Added Member To Class: ClassName=Sheet1 Member=Component SwIC1 IR4427STRPBF
+Added Member To Class: ClassName=Sheet1 Member=Component SwQ SIHB33N60E-GE3
+Added Member To Class: ClassName=Sheet1 Member=Component SwR1 PF1206FRF070R02L

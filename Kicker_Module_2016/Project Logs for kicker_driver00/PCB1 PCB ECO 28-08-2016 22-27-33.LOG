@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetP2_1 Pin=ConIC1-6
+Added Pin To Net: NetName=NetP2_1 Pin=ConR1-2
+Added Pin To Net: NetName=V+ Pin=P2F1-2
+Change Net Name : Old Net Name=NetP2_1 New Net Name=VIN

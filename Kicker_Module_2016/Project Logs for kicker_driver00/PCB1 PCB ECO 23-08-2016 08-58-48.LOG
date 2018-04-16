@@ -1,0 +1,127 @@
+Added Component: Designator=C?(CAP-1812 TDK)
+Added Component: Designator=C?(CAP-1812 TDK)
+Added Component: Designator=C?(CAP-0402)
+Added Component: Designator=C?(CAP-0402)
+Added Component: Designator=C?(CAP-2220)
+Added Component: Designator=C?(CAP-0402)
+Added Component: Designator=C?(CAP Tant 1206 Kemet)
+Added Component: Designator=C?(CAP Tant 1206 Kemet)
+Added Component: Designator=C?(CAP-0402)
+Added Component: Designator=CAP?(Cap Al Size G - Panasonic)
+Added Component: Designator=D?(ONSC-SMB-2-403A-03_V)
+Added Component: Designator=D?(ONSC-SMB-2-403A-03_V)
+Added Component: Designator=D?(ONSC-SOD-123-2-425-04_V)
+Added Component: Designator=D?(ONSC-SMB-2-403A-03_V)
+Added Component: Designator=IC?(SOIC8-STM)
+Added Component: Designator=IC?(SOIC8-INFINEON)
+Added Component: Designator=IC?(SOIC8-INFINEON)
+Added Component: Designator=L1_2(SRF1280-100M-PCB)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X12)
+Added Component: Designator=Q?(TO-247AC)
+Added Component: Designator=Q?(TO-247AC)
+Added Component: Designator=Q?(TO-263AB)
+Added Component: Designator=R?(RES-1206)
+Added Component: Designator=R?(RES-1206)
+Added Component: Designator=R?(RES-1206)
+Added Component: Designator=R?(RES-0402)
+Added Component: Designator=R?(RES-0402)
+Added Pin To Net: NetName=CAP+ Pin=D?-1
+Added Pin To Net: NetName=CAP+ Pin=D?-2
+Added Pin To Net: NetName=CAP+ Pin=D?-2
+Added Pin To Net: NetName=CAP+ Pin=P?-2
+Added Pin To Net: NetName=CAP+ Pin=P?-2
+Added Pin To Net: NetName=CAP+ Pin=P?-2
+Added Pin To Net: NetName=CAP+ Pin=R?-2
+Added Net: Name=CAP+
+Added Pin To Net: NetName=CAP- Pin=P?-1
+Added Net: Name=CAP-
+Added Pin To Net: NetName=CHIP_KICK- Pin=D?-1
+Added Pin To Net: NetName=CHIP_KICK- Pin=P?-1
+Added Pin To Net: NetName=CHIP_KICK- Pin=Q?-2
+Added Pin To Net: NetName=CHIP_KICK- Pin=R?-2
+Added Net: Name=CHIP_KICK-
+Added Pin To Net: NetName=CHIP_KICK Pin=IC?-2
+Added Pin To Net: NetName=CHIP_KICK Pin=P?-12
+Added Net: Name=CHIP_KICK
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=CAP?-1
+Added Pin To Net: NetName=GND Pin=CAP?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=L1_2-1
+Added Pin To Net: NetName=GND Pin=L1_2-3
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Pin To Net: NetName=GND Pin=P?-8
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=KICK- Pin=D?-1
+Added Pin To Net: NetName=KICK- Pin=P?-1
+Added Pin To Net: NetName=KICK- Pin=Q?-2
+Added Pin To Net: NetName=KICK- Pin=R?-2
+Added Net: Name=KICK-
+Added Pin To Net: NetName=KICK_REF Pin=P?-10
+Added Net: Name=KICK_REF
+Added Pin To Net: NetName=KICK Pin=IC?-4
+Added Pin To Net: NetName=KICK Pin=P?-11
+Added Net: Name=KICK
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=IC?-5
+Added Pin To Net: NetName=NetD?_1 Pin=IC?-7
+Added Pin To Net: NetName=NetD?_1 Pin=Q?-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-7
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-8
+Added Pin To Net: NetName=NetIC?_1 Pin=R?-2
+Added Net: Name=NetIC?_1
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=Q?-1
+Added Net: Name=NetIC?_5
+Added Pin To Net: NetName=NetIC?_7 Pin=IC?-7
+Added Pin To Net: NetName=NetIC?_7 Pin=Q?-1
+Added Net: Name=NetIC?_7
+Added Pin To Net: NetName=SEPIC Pin=C?-2
+Added Pin To Net: NetName=SEPIC Pin=D?-2
+Added Pin To Net: NetName=SEPIC Pin=L1_2-2
+Added Net: Name=SEPIC
+Added Pin To Net: NetName=SW_CON Pin=C?-2
+Added Pin To Net: NetName=SW_CON Pin=IC?-2
+Added Pin To Net: NetName=SW_CON Pin=IC?-2
+Added Pin To Net: NetName=SW_CON Pin=IC?-4
+Added Net: Name=SW_CON
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

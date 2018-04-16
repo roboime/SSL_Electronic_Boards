@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=ConR2 Old DesignItemId=RES 470K 0402 New DesignItemId=RES 470K 2512
+Change Component Footprint: Designator=ConR2 Old Footprint=RES-0402 New Footprint=RES-2512 VISHAY
+Change Component Comment : Designator=ConR2 Old Comment=RC0402JR-07470KL New Comment=CRCW2512470KJNEG
+Added Component: Designator=R?(RES-2512 VISHAY)
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW2512470KJNEG

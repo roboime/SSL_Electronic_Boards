@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetBoostC1_1 Pin=BoostL1L2-1
+Removed Pin From Net: NetName=SEPIC Pin=BoostL1L2-2
+Removed Pin From Net: NetName=GND Pin=BoostL1L2-3
+Removed Pin From Net: NetName=V+ Pin=BoostL1L2-4
+Removed Member From Class: ClassName=Sheet1 Member=BoostL1L2
+Added Component: Designator=SRF1280(SRF1280-100M-PCB)
+Added Pin To Net: NetName=NetBoostC1_1 Pin=SRF1280-1
+Added Pin To Net: NetName=SEPIC Pin=SRF1280-2
+Added Pin To Net: NetName=V+ Pin=SRF1280-3
+Added Pin To Net: NetName=GND Pin=SRF1280-4
+Added Member To Class: ClassName=Sheet1 Member=Component SRF1280 SRF1280-100M

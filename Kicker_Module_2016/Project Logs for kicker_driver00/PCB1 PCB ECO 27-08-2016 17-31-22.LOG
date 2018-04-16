@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetBoostC1_1 Pin=SRF1280-1
+Removed Pin From Net: NetName=SEPIC Pin=SRF1280-2
+Removed Pin From Net: NetName=V+ Pin=SRF1280-3
+Removed Pin From Net: NetName=GND Pin=SRF1280-4
+Added Pin To Net: NetName=GND Pin=SRF1280-1
+Added Pin To Net: NetName=V+ Pin=SRF1280-2
+Added Pin To Net: NetName=SEPIC Pin=SRF1280-3
+Added Pin To Net: NetName=NetBoostC1_1 Pin=SRF1280-4

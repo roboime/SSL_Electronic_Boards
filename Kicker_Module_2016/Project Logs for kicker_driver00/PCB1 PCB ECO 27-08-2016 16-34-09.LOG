@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=V+ Pin=ConIC1-6
+Removed Pin From Net: NetName=V+ Pin=ConR1-2
+Removed Pin From Net: NetName=V+ Pin=P2C1-1
+Removed Pin From Net: NetName=V+ Pin=P2F1-2
+Added Pin To Net: NetName=V+ Pin=ConIC1-1
+Added Pin To Net: NetName=V+ Pin=ConIC1-7
+Added Pin To Net: NetName=V+ Pin=ConIC1-8
+Added Pin To Net: NetName=V+ Pin=ConR1-1
+Added Pin To Net: NetName=VIN Pin=ConIC1-6
+Added Pin To Net: NetName=VIN Pin=ConR1-2
+Added Pin To Net: NetName=VIN Pin=P2C1-1
+Added Pin To Net: NetName=VIN Pin=P2F1-2
+Added Net: Name=VIN

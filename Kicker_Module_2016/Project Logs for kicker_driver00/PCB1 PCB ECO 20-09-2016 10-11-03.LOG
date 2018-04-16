@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=CAP+ Pin=P4-2
+Removed Member From Class: ClassName=Sheet1 Member=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Added Room: Name=Sheet1

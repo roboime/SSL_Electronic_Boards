@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CAP+ Pin=BoostD1-1
+Removed Pin From Net: NetName=SEPIC Pin=BoostD1-2
+Added Component: Designator=R?(RES-2512 VISHAY)
+Added Pin To Net: NetName=SEPIC Pin=BoostD1-1
+Added Pin To Net: NetName=CAP+ Pin=BoostD1-2
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW2512470KJNEG
+Added Room: Name=Sheet1

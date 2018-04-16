@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=KickC1 NewDesignator=KickC2
+Change Component Designator: OldDesignator=KickR1 NewDesignator=KickR2
+Added Pin To Net: NetName=NetKickC2_2 Pin=KickC2-2
+Added Pin To Net: NetName=NetKickC2_2 Pin=KickR2-1
+Added Net: Name=NetKickC2_2
+Added Member To Class: ClassName=Sheet1 Member=Component KickC2 C4532X7R2E474K230KA
+Added Member To Class: ClassName=Sheet1 Member=Component KickR2 PF1206FRF070R02L

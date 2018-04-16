@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetKickIC1_7 Pin=KickR1-1
+Removed Pin From Net: NetName=NetKickIC1_5 Pin=KickR3-1
+Added Pin To Net: NetName=NetKickIC1_5 Pin=KickR1-1
+Added Pin To Net: NetName=NetKickIC1_7 Pin=KickR3-1

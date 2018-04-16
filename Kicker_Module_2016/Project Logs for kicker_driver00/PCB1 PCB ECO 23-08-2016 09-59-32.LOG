@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetKickIC1_7 Pin=KickQ1-1
+Removed Pin From Net: NetName=NetKickIC1_5 Pin=KickQ2-1
+Removed Pin From Net: NetName=NetSwD1_1 Pin=SwIC1-5
+Removed Pin From Net: NetName=NetSwD1_1 Pin=SwIC1-7
+Change Component Designator: OldDesignator=KickR1 NewDesignator=KickR2
+Change Component Designator: OldDesignator=KickR2 NewDesignator=KickR4
+Change Component Designator: OldDesignator=SwR1 NewDesignator=SwR2
+Added Component: Designator=KickR1(RES-0402)
+Added Component: Designator=KickR3(RES-0402)
+Added Component: Designator=SwR1(RES-0402)
+Added Pin To Net: NetName=NetKickIC1_7 Pin=KickR1-1
+Added Pin To Net: NetName=NetKickIC1_5 Pin=KickR3-1
+Added Pin To Net: NetName=NetSwD1_1 Pin=SwR1-2
+Added Pin To Net: NetName=NetKickQ1_1 Pin=KickQ1-1
+Added Pin To Net: NetName=NetKickQ1_1 Pin=KickR1-2
+Added Net: Name=NetKickQ1_1
+Added Pin To Net: NetName=NetKickQ2_1 Pin=KickQ2-1
+Added Pin To Net: NetName=NetKickQ2_1 Pin=KickR3-2
+Added Net: Name=NetKickQ2_1
+Added Pin To Net: NetName=NetSwIC1_5 Pin=SwIC1-5
+Added Pin To Net: NetName=NetSwIC1_5 Pin=SwIC1-7
+Added Pin To Net: NetName=NetSwIC1_5 Pin=SwR1-1
+Added Net: Name=NetSwIC1_5
+Added Member To Class: ClassName=Sheet1 Member=Component KickR3 RC0402JR-0710RL
+Added Member To Class: ClassName=Sheet1 Member=Component KickR4 PF1206FRF070R02L
+Added Member To Class: ClassName=Sheet1 Member=Component SwR2 PF1206FRF070R02L
+Added Room: Name=Sheet1

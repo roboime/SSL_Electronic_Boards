@@ -1,0 +1,4 @@
+Added Component: Designator=SwC3(CAP-0402)
+Added Pin To Net: NetName=NetSwC3_2 Pin=SwC3-2
+Added Member To Class: ClassName=Sheet1 Member=Component SwC3 C1206C474K5NACTU
+Added Room: Name=Sheet1

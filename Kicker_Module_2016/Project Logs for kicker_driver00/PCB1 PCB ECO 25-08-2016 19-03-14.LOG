@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetSwD1_1 Pin=SwQ-1
+Removed Pin From Net: NetName=NetBoostC1_1 Pin=SwQ-2
+Removed Pin From Net: NetName=GND Pin=SwQ-3
+Removed Member From Class: ClassName=Sheet1 Member=SwQ
+Added Component: Designator=SwQ1(TO-263 Vishay)
+Added Pin To Net: NetName=GND Pin=SwC3-1
+Added Pin To Net: NetName=NetSwD1_1 Pin=SwQ1-1
+Added Pin To Net: NetName=NetBoostC1_1 Pin=SwQ1-2
+Added Pin To Net: NetName=GND Pin=SwQ1-3
+Added Member To Class: ClassName=Sheet1 Member=Component SwQ1 SUM45N25-58-E3

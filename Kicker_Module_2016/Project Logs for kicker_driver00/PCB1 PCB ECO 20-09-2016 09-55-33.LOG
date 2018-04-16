@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=KICK- Pin=P4-1
+Removed Pin From Net: NetName=CHIP_KICK- Pin=P5-1
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 2 New DesignItemId=Term Block 2P
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 2 New DesignItemId=Term Block 2P
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 2 New DesignItemId=Term Block 2P
+Change Component Footprint: Designator=P2F1 Old Footprint=CAP-1206 KEMET New Footprint=1812-MSMF Bourns2
+Change Component Comment : Designator=ConC1 Old Comment=1nF New Comment=GRM155R71H102KA01D
+Change Component Comment : Designator=BoostC1 Old Comment=1UF New Comment=CGA9P4X7T2W105M250KE
+Change Component Comment : Designator=ConR3 Old Comment=3,3K New Comment=RC0402JR-073K3L
+Change Component Comment : Designator=KickC4 Old Comment=4,7UF New Comment=T491A475M025AT
+Change Component Comment : Designator=SwC2 Old Comment=4,7UF New Comment=T491A475M025AT
+Change Component Comment : Designator=KickR1 Old Comment=10R New Comment=RC0402JR-0710RL
+Change Component Comment : Designator=KickR3 Old Comment=10R New Comment=RC0402JR-0710RL
+Change Component Comment : Designator=SwR1 Old Comment=10R New Comment=RC0402JR-0710RL
+Change Component Comment : Designator=SwR3 Old Comment=10R New Comment=RC0402JR-0710RL
+Change Component Comment : Designator=KickC3 Old Comment=100nF New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=SwC1 Old Comment=100nF New Comment=GRM155R71C104KA88D
+Change Component Comment : Designator=ConR2 Old Comment=470K New Comment=RC0402JR-07470KL
+Change Component Comment : Designator=SwC3 Old Comment=470nF New Comment=C1206C474K5NACTU
+Change Component Comment : Designator=KickC1 Old Comment=470nF New Comment=C4532X7R2E474K230KA
+Change Component Comment : Designator=KickC2 Old Comment=470nF New Comment=C4532X7R2E474K230KA
+Change Component Comment : Designator=P3 Old Comment=Capacitores New Comment=OSTTA024163
+Change Component Comment : Designator=P5 Old Comment=Chute Alto New Comment=OSTTA024163
+Change Component Comment : Designator=P4 Old Comment=Chute Baixo New Comment=OSTTA024163
+Change Component Comment : Designator=KickIC1 Old Comment=IR4427 New Comment=IR4427STRPBF
+Change Component Comment : Designator=SwIC1 Old Comment=IR4427 New Comment=IR4427STRPBF
+Change Component Comment : Designator=KickQ1 Old Comment=IRG4PC50FD New Comment=IRG4PC50FD-EPBF
+Change Component Comment : Designator=KickQ2 Old Comment=IRG4PC50FD New Comment=IRG4PC50FD-EPBF
+Change Component Comment : Designator=ConIC1 Old Comment=MC34063 New Comment=MC34063ACD
+Change Component Comment : Designator=P2F1 Old Comment=MF-MSMF New Comment=MF-MSMF250/16X-2
+Change Component Comment : Designator=BoostD1 Old Comment=MURS360 New Comment=MURS360BT3G
+Change Component Comment : Designator=P4D1 Old Comment=MURS360 New Comment=MURS360BT3G
+Change Component Comment : Designator=P5D1 Old Comment=MURS360 New Comment=MURS360BT3G
+Change Component Comment : Designator=KickR2 Old Comment=R02 New Comment=PF1206FRF070R02L
+Change Component Comment : Designator=KickR4 Old Comment=R02 New Comment=PF1206FRF070R02L
+Change Component Comment : Designator=SwR2 Old Comment=R02 New Comment=PF1206FRF070R02L
+Change Component Comment : Designator=ConR1 Old Comment=R100 New Comment=CRA2512-FZ-R100ELF
+Change Component Comment : Designator=SwQ1 Old Comment=SUM45N25 New Comment=SUM45N25-58-E3
+Change Component Description : Designator=P3 Old Description=Header, 2-Pin New Description=2 Position Wire to Board Terminal Block Horizontal with Board 0.200" (5.08mm) Through Hole
+Change Component Description : Designator=P4 Old Description=Header, 2-Pin New Description=2 Position Wire to Board Terminal Block Horizontal with Board 0.200" (5.08mm) Through Hole
+Change Component Description : Designator=P5 Old Description=Header, 2-Pin New Description=2 Position Wire to Board Terminal Block Horizontal with Board 0.200" (5.08mm) Through Hole
+Change Component Library : Designator=P3 Old Library=Miscellaneous Connectors.IntLib New Library=Schlib1.SchLib
+Change Component Library : Designator=P4 Old Library=Miscellaneous Connectors.IntLib New Library=Schlib1.SchLib
+Change Component Library : Designator=P5 Old Library=Miscellaneous Connectors.IntLib New Library=Schlib1.SchLib
+Added Component: Designator=P6(Term Block 2P)
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=KICK- Pin=P5-1
+Added Pin To Net: NetName=CHIP_KICK- Pin=P6-1
+Added Member To Class: ClassName=Sheet1 Member=Component P6 OSTTA024163
+Added Room: Name=Sheet1

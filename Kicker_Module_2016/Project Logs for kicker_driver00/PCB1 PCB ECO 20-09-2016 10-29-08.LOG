@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CHIP_KICK- Pin=P5-1
+Removed Pin From Net: NetName=CAP+ Pin=P5-2
+Added Pin To Net: NetName=CAP+ Pin=P5-1
+Added Pin To Net: NetName=CHIP_KICK- Pin=P5-2

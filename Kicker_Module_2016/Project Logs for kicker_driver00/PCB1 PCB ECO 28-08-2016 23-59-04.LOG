@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SW_CON Pin=SwIC1-2
+Removed Pin From Net: NetName=SW_CON Pin=SwIC1-4
+Added Component: Designator=SwR3(RES-0402)
+Added Component: Designator=SwR4(RES-0402)
+Added Pin To Net: NetName=SW_CON Pin=SwR3-1
+Added Pin To Net: NetName=SW_CON Pin=SwR4-1
+Added Pin To Net: NetName=NetSwIC1_2 Pin=SwIC1-2
+Added Pin To Net: NetName=NetSwIC1_2 Pin=SwR3-2
+Added Net: Name=NetSwIC1_2
+Added Pin To Net: NetName=NetSwIC1_4 Pin=SwIC1-4
+Added Pin To Net: NetName=NetSwIC1_4 Pin=SwR4-2
+Added Net: Name=NetSwIC1_4
+Added Member To Class: ClassName=Sheet1 Member=Component SwR3 RC0402JR-0710RL
+Added Member To Class: ClassName=Sheet1 Member=Component SwR4 RC0402JR-0710RL

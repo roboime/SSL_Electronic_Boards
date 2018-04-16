@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=KICK_REF Pin=ConR2-1
+Removed Pin From Net: NetName=GND Pin=ConR2-2
+Change Component Description : Designator=ConR2 Old Description=RES SMD 470K OHM 1% 1/4W 1206 New Description=RES SMD 3.3K OHM 5% 1/4W 1206
+Added Pin To Net: NetName=GND Pin=ConR2-1
+Added Pin To Net: NetName=KICK_REF Pin=ConR2-2

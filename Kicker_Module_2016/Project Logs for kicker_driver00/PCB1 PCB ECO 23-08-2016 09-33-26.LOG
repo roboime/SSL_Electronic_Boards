@@ -1,0 +1,6 @@
+Added Component: Designator=ConR1(RES-2512 BOURNS CRA)
+Added Pin To Net: NetName=NetConIC1_1 Pin=ConR1-1
+Added Pin To Net: NetName=V+ Pin=ConR1-2
+Added Member To Class: ClassName=Sheet1 Member=Component ConR1 CRA2512-FZ-R100ELF
+Added Member To Class: ClassName=Sheet1 Member=Component KickC1 C4532X7R2E474K230KA
+Added Member To Class: ClassName=Sheet1 Member=Component KickR1 PF1206FRF070R02L

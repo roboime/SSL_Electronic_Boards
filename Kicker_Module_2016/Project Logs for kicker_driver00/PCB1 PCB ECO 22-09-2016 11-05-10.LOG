@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V+ Pin=ConIC1-8
+Added Component: Designator=ConR4(RES-0402)
+Added Component: Designator=ConR5(RES-0402)
+Added Pin To Net: NetName=V+ Pin=ConR4-2
+Added Pin To Net: NetName=GND Pin=ConR5-1
+Added Pin To Net: NetName=SW_CON Pin=ConR5-2
+Added Pin To Net: NetName=NetConIC1_8 Pin=ConIC1-8
+Added Pin To Net: NetName=NetConIC1_8 Pin=ConR4-1
+Added Net: Name=NetConIC1_8
+Added Member To Class: ClassName=Sheet1 Member=Component ConR4 RC0402JR-0747RL
+Added Member To Class: ClassName=Sheet1 Member=Component ConR5 RC0402JR-071KL

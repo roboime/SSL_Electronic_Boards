@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SEPIC Pin=BoostL1L2-2
+Removed Pin From Net: NetName=GND Pin=BoostL1L2-3
+Added Pin To Net: NetName=GND Pin=BoostL1L2-2
+Added Pin To Net: NetName=SEPIC Pin=BoostL1L2-3
