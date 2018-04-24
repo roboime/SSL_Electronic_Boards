@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Cap- Pin=CON_CAP-1
+Removed Pin From Net: NetName=Cap+ Pin=CON_CAP-2
+Added Pin To Net: NetName=Cap+ Pin=CON_CAP-1
+Added Pin To Net: NetName=Cap- Pin=CON_CAP-2
+Added Member To Class: ClassName=Kicker2018 Member=Component D4 PMEG3050EP,115
