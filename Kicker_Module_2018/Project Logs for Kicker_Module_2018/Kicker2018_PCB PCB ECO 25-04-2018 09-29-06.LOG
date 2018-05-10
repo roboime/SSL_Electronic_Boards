@@ -1,0 +1,10 @@
+Added Component: Designator=D2(Diode)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(Diode)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Cap+ Pin=D2-D1+
+Added Pin To Net: NetName=KICK- Pin=D2-D1-
+Added Pin To Net: NetName=Cap+ Pin=D3-D1+
+Added Pin To Net: NetName=CHIP_KICK- Pin=D3-D1-
+Added Member To Class: ClassName=Kicker2018 Member=Component D2 ES3J
+Added Member To Class: ClassName=Kicker2018 Member=Component D3 ES3J

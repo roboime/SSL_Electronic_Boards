@@ -1,0 +1,5 @@
+Added Component: Designator=D1(Diode)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Cap+ Pin=D1-D1+
+Added Pin To Net: NetName=NetD1_D1- Pin=D1-D1-
+Added Member To Class: ClassName=Kicker2018 Member=Component D1 ES3J
