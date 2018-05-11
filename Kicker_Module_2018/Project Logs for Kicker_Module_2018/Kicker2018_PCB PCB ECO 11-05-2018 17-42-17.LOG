@@ -1,0 +1,15 @@
+Added Component: Designator=TP_D(TP-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_G(TP-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_KA(TP-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_KB(TP-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_S(TP-PCB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetLT3750_2 Pin=TP_D-1
+Added Pin To Net: NetName=NetLT3750_7 Pin=TP_G-1
+Added Pin To Net: NetName=CHIP_KICK Pin=TP_KA-1
+Added Pin To Net: NetName=KICK Pin=TP_KB-1
+Added Pin To Net: NetName=Vs Pin=TP_S-1
