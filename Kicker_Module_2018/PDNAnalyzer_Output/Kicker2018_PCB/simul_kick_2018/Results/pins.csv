@@ -1,0 +1,7 @@
+refdes,pin,voltage,current
+pdna_comp_(+)_CON_CAP_(-)_1,1,179.94,60.0
+pdna_comp_(+)_CON_CAP_(-)_1,2,0.0,-60.0
+CON_CHIP_KICK,2,179.809,-59.9999
+CON_CHIP_KICK,1,0.289804,59.9999
+Q3,3,0.0996484,60.0
+Q3,1,0.0997684,-60.0
