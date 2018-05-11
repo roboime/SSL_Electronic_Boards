@@ -1,0 +1,117 @@
+Added Component: Designator=*(QFN65P1000X1300X80_HS-29N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.019.021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.019.505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "GRM155R71E333KA88J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33n"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.019.502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220n"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.019.502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220n"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.019.505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "GRM155R71E333KA88J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33n"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.019.021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=CON-MC1(04x01_Conector_Male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CON-MC2(04x01_Conector_Male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Component: Designator=R2(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=GND Pin=*-10
+Added Pin To Net: NetName=GND Pin=*-11
+Added Pin To Net: NetName=GND Pin=*-20
+Added Pin To Net: NetName=GND Pin=*-24
+Added Pin To Net: NetName=GND Pin=*-25
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=CON-MC2-0
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=MAH Pin=*-8
+Added Pin To Net: NetName=MAH Pin=CON-MC1-0
+Added Net: Name=MAH
+Added Pin To Net: NetName=MAL Pin=*-6
+Added Pin To Net: NetName=MAL Pin=CON-MC1-1
+Added Net: Name=MAL
+Added Pin To Net: NetName=MA Pin=CON-MC2-2
+Added Net: Name=MA
+Added Pin To Net: NetName=MBH Pin=*-22
+Added Pin To Net: NetName=MBH Pin=CON-MC1-2
+Added Net: Name=MBH
+Added Pin To Net: NetName=MBL Pin=*-21
+Added Pin To Net: NetName=MBL Pin=CON-MC1-3
+Added Net: Name=MBL
+Added Pin To Net: NetName=MB Pin=CON-MC2-3
+Added Net: Name=MB
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-2
+Added Pin To Net: NetName=Net*_1 Pin=*-27
+Added Pin To Net: NetName=Net*_1 Pin=*-28
+Added Pin To Net: NetName=Net*_1 Pin=C3-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=C3-2
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=R2-1
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=*-14
+Added Pin To Net: NetName=Net*_13 Pin=*-15
+Added Pin To Net: NetName=Net*_13 Pin=*-16
+Added Pin To Net: NetName=Net*_13 Pin=C4-2
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=Net*_19 Pin=*-19
+Added Pin To Net: NetName=Net*_19 Pin=C4-1
+Added Net: Name=Net*_19
+Added Pin To Net: NetName=Net*_26 Pin=*-26
+Added Pin To Net: NetName=Net*_26 Pin=R1-2
+Added Net: Name=Net*_26
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=VCC Pin=*-4
+Added Pin To Net: NetName=VCC Pin=*-9
+Added Pin To Net: NetName=VCC Pin=*-17
+Added Pin To Net: NetName=VCC Pin=*-18
+Added Pin To Net: NetName=VCC Pin=*-23
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=CON-MC2-1
+Added Net: Name=VCC
+Added Class: Name=Motor_Driver_2018Sch

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MAH Pin=PWD13F60-8
+Removed Pin From Net: NetName=MBH Pin=PWD13F60-22
+Added Pin To Net: NetName=MBH Pin=PWD13F60-8
+Added Pin To Net: NetName=MAH Pin=PWD13F60-22
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component C6 100nF

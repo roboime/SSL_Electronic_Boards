@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Motor_Driver.SchDoc
+Record=SheetSymbol|SourceDocument=Motor_Driver.SchDoc|Designator=MAHB|SchDesignator=MAHB|FileName=half_bridge.SchDoc|SymbolType=Normal|RawFileName=half_bridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Motor_Driver.SchDoc|Designator=MBHB|SchDesignator=MBHB|FileName=half_bridge.SchDoc|SymbolType=Normal|RawFileName=half_bridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

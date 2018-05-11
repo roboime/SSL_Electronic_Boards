@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=MAHB Member=IRF7389_MBHB
+Removed Member From Class: ClassName=MAHB Member=R1_MBHB
+Removed Member From Class: ClassName=MAHB Member=R3_MBHB
+Removed Member From Class: ClassName=MAHB Member=R5_MBHB
+Added Component: Designator=CON-MC(04x01_Conector_Male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CON-MOTOR(04x01_Conector_Male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MBL Pin=CON-MC-1
+Added Pin To Net: NetName=MBH Pin=CON-MC-2
+Added Pin To Net: NetName=MAL Pin=CON-MC-3
+Added Pin To Net: NetName=MAH Pin=CON-MC-4
+Added Pin To Net: NetName=MA_MBHB Pin=CON-MOTOR-1
+Added Pin To Net: NetName=MA Pin=CON-MOTOR-2
+Added Pin To Net: NetName=VCC Pin=CON-MOTOR-3
+Added Pin To Net: NetName=GND Pin=CON-MOTOR-4
+Added Member To Class: ClassName=motor_driver Member=Component CON-MC 22032041
+Added Member To Class: ClassName=motor_driver Member=Component CON-MOTOR 22032041
+Added Member To Class: ClassName=MAHB Member=Component IRF7389_MAHB (IRF7389) IRF7389TRPBF
+Added Member To Class: ClassName=MAHB Member=Component R3_MAHB (R3) 10K
+Change Rule Scope 1 : Old Scope=InComponent('C2_MBHB') New Scope=InComponent('C2_MAHB')

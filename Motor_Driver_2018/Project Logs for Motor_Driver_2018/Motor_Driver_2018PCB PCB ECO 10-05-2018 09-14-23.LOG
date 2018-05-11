@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=MAH Pin=CON-MC1-0
+Removed Pin From Net: NetName=MAL Pin=CON-MC1-1
+Removed Pin From Net: NetName=MBL Pin=CON-MC1-3
+Removed Pin From Net: NetName=GND Pin=CON-MC2-0
+Removed Pin From Net: NetName=VCC Pin=CON-MC2-1
+Removed Pin From Net: NetName=MB Pin=CON-MC2-3
+Removed Pin From Net: NetName=GND Pin=PWD13F60-12
+Removed Pin From Net: NetName=GND Pin=PWD13F60-26
+Added Component: Designator=R1(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Component: Designator=R2(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MAL Pin=CON-MC1-3
+Added Pin To Net: NetName=MB Pin=CON-MC2-1
+Added Pin To Net: NetName=VCC Pin=CON-MC2-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetPWD13F60_12 Pin=PWD13F60-12
+Added Pin To Net: NetName=NetPWD13F60_12 Pin=R1-2
+Added Net: Name=NetPWD13F60_12
+Added Pin To Net: NetName=NetPWD13F60_26 Pin=PWD13F60-26
+Added Pin To Net: NetName=NetPWD13F60_26 Pin=R2-1
+Added Net: Name=NetPWD13F60_26
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component R1 0R02
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component R2 0R02

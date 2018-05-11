@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=MAH Pin=CON-MC1-4
+Added Pin To Net: NetName=GND Pin=CON-MC2-4
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component CON-MC1 22032041
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component CON-MC2 22032041
