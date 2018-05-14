@@ -1,0 +1,13 @@
+Added Component: Designator=Display1(New footprint 1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=g Pin=Display1-1
+Added Pin To Net: NetName=f Pin=Display1-2
+Added Pin To Net: NetName=GND Pin=Display1-3
+Added Pin To Net: NetName=e Pin=Display1-4
+Added Pin To Net: NetName=d Pin=Display1-5
+Added Pin To Net: NetName=a Pin=Display1-6
+Added Pin To Net: NetName=b Pin=Display1-7
+Added Pin To Net: NetName=GND Pin=Display1-8
+Added Pin To Net: NetName=DP Pin=Display1-9
+Added Pin To Net: NetName=c Pin=Display1-10
+Added Member To Class: ClassName=Periféricos Member=Component Display1 HDSP-F513

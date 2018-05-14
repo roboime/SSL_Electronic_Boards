@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=INT_MPU Pin=DISCO_P2-44
+Added Pin To Net: NetName=INT_MPU Pin=DISCO_P1-24

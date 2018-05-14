@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Mother_Board_SSL2018.PrjPcb]
+   Generated File[Mother_board_SSL2018.TXT]
+   Generated File[Mother_board_SSL2018.LDP]
+   Generated File[Mother_board_SSL2018.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:56:44 On 12/05/2018

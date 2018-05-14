@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\DELL-I15\Documents\roboime\SSL_Mother_Board-master\Mother_board_SSL2018.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

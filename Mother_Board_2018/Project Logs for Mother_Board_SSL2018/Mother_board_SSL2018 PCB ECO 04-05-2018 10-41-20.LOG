@@ -1,0 +1,10 @@
+Added Component: Designator=R_D(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R_D-1
+Added Pin To Net: NetName=D_CUR Pin=R_D-2
+Added Member To Class: ClassName=Mother_board_SSL2018 Member=Component R_D 1K

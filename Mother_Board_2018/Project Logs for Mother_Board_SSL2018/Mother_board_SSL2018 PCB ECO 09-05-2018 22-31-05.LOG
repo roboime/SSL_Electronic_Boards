@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SPI2.MOSI Pin=DISCO_P1-9
+Removed Pin From Net: NetName=SPI2.SCK Pin=DISCO_P1-34
+Removed Pin From Net: NetName=DAH Pin=DISCO_P1-39
+Removed Pin From Net: NetName=M0_MAL Pin=DISCO_P2-14
+Removed Pin From Net: NetName=NRF_CE Pin=DISCO_P2-42
+Added Pin To Net: NetName=SPI2.SCK Pin=DISCO_P1-37
+Added Pin To Net: NetName=SPI2.MOSI Pin=DISCO_P1-39
+Added Pin To Net: NetName=M0_MAL Pin=DISCO_P2-10
+Added Pin To Net: NetName=DAH Pin=DISCO_P2-14
+Added Pin To Net: NetName=NRF_CE Pin=DISCO_P2-39

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=g Pin=Display1-1
+Removed Pin From Net: NetName=f Pin=Display1-2
+Removed Pin From Net: NetName=GND Pin=Display1-3
+Removed Pin From Net: NetName=e Pin=Display1-4
+Removed Pin From Net: NetName=d Pin=Display1-5
+Removed Pin From Net: NetName=a Pin=Display1-6
+Removed Pin From Net: NetName=GND Pin=Display1-8
+Removed Pin From Net: NetName=DP Pin=Display1-9
+Removed Pin From Net: NetName=c Pin=Display1-10
+Removed Member From Class: ClassName=Periféricos Member=Display1
+Change Component Designator: OldDesignator=SEN2 NewDesignator=SENSOR2
+Added Component: Designator=Display(New footprint 1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=g Pin=Display-1
+Added Pin To Net: NetName=f Pin=Display-2
+Added Pin To Net: NetName=GND Pin=Display-3
+Added Pin To Net: NetName=e Pin=Display-4
+Added Pin To Net: NetName=d Pin=Display-5
+Added Pin To Net: NetName=a Pin=Display-6
+Added Pin To Net: NetName=b Pin=Display-7
+Added Pin To Net: NetName=GND Pin=Display-8
+Added Pin To Net: NetName=DP Pin=Display-9
+Added Pin To Net: NetName=c Pin=Display-10

@@ -1,0 +1,381 @@
+Removed Pin From Net: NetName=NetFM_M1_2 Pin=0R-2
+Removed Pin From Net: NetName=VCC Pin=C2_INA1-1
+Removed Pin From Net: NetName=GND Pin=C2_INA1-2
+Removed Pin From Net: NetName=VCC Pin=C2_INA2-1
+Removed Pin From Net: NetName=GND Pin=C2_INA2-2
+Removed Pin From Net: NetName=VCC Pin=C2_INA3-1
+Removed Pin From Net: NetName=GND Pin=C2_INA3-2
+Removed Pin From Net: NetName=VCC Pin=C2_INA4-1
+Removed Pin From Net: NetName=GND Pin=C2_INA4-2
+Removed Pin From Net: NetName=VCC Pin=C2_INAD-1
+Removed Pin From Net: NetName=GND Pin=C2_INAD-2
+Removed Pin From Net: NetName=S1 Pin=DISCO_P1-7
+Removed Pin From Net: NetName=NRF_CE Pin=DISCO_P1-13
+Removed Pin From Net: NetName=S2 Pin=DISCO_P1-14
+Removed Pin From Net: NetName=NRF_CS# Pin=DISCO_P1-16
+Removed Pin From Net: NetName=INT_MPU Pin=DISCO_P1-20
+Removed Pin From Net: NetName=GND Pin=IC1_INA1-1
+Removed Pin From Net: NetName=GND Pin=IC1_INA1-2
+Removed Pin From Net: NetName=I2C.SDA Pin=IC1_INA1-4
+Removed Pin From Net: NetName=I2C.SCL Pin=IC1_INA1-5
+Removed Pin From Net: NetName=VCC Pin=IC1_INA1-6
+Removed Pin From Net: NetName=GND Pin=IC1_INA1-7
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=IC1_INA1-8
+Removed Pin From Net: NetName=GND Pin=IC1_INA2-1
+Removed Pin From Net: NetName=VCC Pin=IC1_INA2-2
+Removed Pin From Net: NetName=I2C.SDA Pin=IC1_INA2-4
+Removed Pin From Net: NetName=I2C.SCL Pin=IC1_INA2-5
+Removed Pin From Net: NetName=VCC Pin=IC1_INA2-6
+Removed Pin From Net: NetName=GND Pin=IC1_INA2-7
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=IC1_INA2-8
+Removed Pin From Net: NetName=I2C.SDA Pin=IC1_INA3-1
+Removed Pin From Net: NetName=VCC Pin=IC1_INA3-2
+Removed Pin From Net: NetName=I2C.SDA Pin=IC1_INA3-4
+Removed Pin From Net: NetName=I2C.SCL Pin=IC1_INA3-5
+Removed Pin From Net: NetName=VCC Pin=IC1_INA3-6
+Removed Pin From Net: NetName=GND Pin=IC1_INA3-7
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=IC1_INA3-8
+Removed Pin From Net: NetName=VCC Pin=IC1_INA4-1
+Removed Pin From Net: NetName=VCC Pin=IC1_INA4-2
+Removed Pin From Net: NetName=I2C.SDA Pin=IC1_INA4-4
+Removed Pin From Net: NetName=I2C.SCL Pin=IC1_INA4-5
+Removed Pin From Net: NetName=VCC Pin=IC1_INA4-6
+Removed Pin From Net: NetName=GND Pin=IC1_INA4-7
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=IC1_INA4-8
+Removed Pin From Net: NetName=GND Pin=IC1_INAD-1
+Removed Pin From Net: NetName=I2C.SCL Pin=IC1_INAD-2
+Removed Pin From Net: NetName=I2C.SDA Pin=IC1_INAD-4
+Removed Pin From Net: NetName=I2C.SCL Pin=IC1_INAD-5
+Removed Pin From Net: NetName=VCC Pin=IC1_INAD-6
+Removed Pin From Net: NetName=GND Pin=IC1_INAD-7
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=IC1_INAD-8
+Removed Pin From Net: NetName=NetFM_M0_2 Pin=R1_INA1-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R1_INA1-2
+Removed Pin From Net: NetName=NetFM_M1_2 Pin=R1_INA2-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R1_INA2-2
+Removed Pin From Net: NetName=NetFM_M2_2 Pin=R1_INA3-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R1_INA3-2
+Removed Pin From Net: NetName=NetFM_M3_2 Pin=R1_INA4-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R1_INA4-2
+Removed Pin From Net: NetName=NetDF_2 Pin=R1_INAD-1
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R1_INAD-2
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R2_INA1-2
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R2_INA2-2
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R2_INA3-2
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R2_INA4-2
+Removed Pin From Net: NetName=V+ BAT_INA1 Pin=R2_INAD-2
+Removed Pin From Net: NetName=NetFM_M0_2 Pin=R3_INA1-2
+Removed Pin From Net: NetName=NetFM_M2_2 Pin=R3_INA3-2
+Removed Pin From Net: NetName=NetFM_M3_2 Pin=R3_INA4-2
+Removed Pin From Net: NetName=NetDF_2 Pin=R3_INAD-2
+Removed Member From Class: ClassName=M3 Member=M3-MOTOR
+Removed Member From Class: ClassName=DIRECT Member=V+ BAT_INA1
+Change component parameters: Designator = "C2"; Footprint = "1206-CAP"; UniqueID = "\MHHGQSYM\EDULMCVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part No"; Value = "C3216X5R0J226M085AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rule"; Value = "Polygon Connect Style [Style - Direct Connect]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "1206-CAP"; UniqueID = "\MHHGQSYM\SWQUWDAE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part No"; Value = "C3216X5R0J226M085AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rule"; Value = "Polygon Connect Style [Style - Direct Connect]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "0402-CAP"; UniqueID = "\MHHGQSYM\ARSRLWDU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.019.021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "1210-CAP"; UniqueID = "\MHHGQSYM\HQJBFSNC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.019.522"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "UMK325BJ106MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MC_C1"; Footprint = "0402-CAP"; UniqueID = "\SUPWDYRO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MC_C2"; Footprint = "0402-CAP"; UniqueID = "\KLWRDSTK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MC_C3"; Footprint = "0402-CAP"; UniqueID = "\ANBBCLPE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MC_C4"; Footprint = "0402-CAP"; UniqueID = "\MEPLXGAR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MC_C5"; Footprint = "0402-CAP"; UniqueID = "\LEMUFARV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "NRF_C1"; Footprint = "0402-CAP"; UniqueID = "\BWSTYRHL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "CLF7045T"; UniqueID = "\MHHGQSYM\GPQATBQQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Family"; Value = "CLF7045T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "INDUTORES FIXOS 7,2x6,9mm TDK CLF7045T -45 A 125oC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "CLF7045T-4R7N-H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rule"; Value = "Polygon Connect Style [Style - Direct Connect]"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1_Chute"; Footprint = "HDR1X12"; UniqueID = "\VDYQRJUG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2_Chute"; Footprint = "HDR1X12"; UniqueID = "\LNLJDOPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0402-RES-HD"; UniqueID = "\MHHGQSYM\YCNPOSJK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.535"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3302X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0402-RES-HD"; UniqueID = "\MHHGQSYM\DNGKISKO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "0402-RES-HD"; UniqueID = "\MHHGQSYM\DHQCGTCC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1002X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "0402-RES-HD"; UniqueID = "\MHHGQSYM\HEKGSJJJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.535"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3302X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RL1"; Footprint = "0402-RES-HD"; UniqueID = "\UOQKBAQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RL2"; Footprint = "0402-RES-HD"; UniqueID = "\IHUDERRY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RS1"; Footprint = "0402-RES-HD"; UniqueID = "\VBVCNOWC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RS2"; Footprint = "0402-RES-HD"; UniqueID = "\RIYRWJYY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MC_R1"; Footprint = "0402"; UniqueID = "\CWGXYEYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MC_R2"; Footprint = "0402"; UniqueID = "\MKQKXDDT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC?"; Footprint = "SOT-223_N"; UniqueID = "\MHHGQSYM\IPTMVSXY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000544.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "4-Pin SOT-223 Package, 6.5 x 3.5 mm Body, 2.3 mm Pitch, 7 mm Lead Span"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2010"; VariantName = "[No Variations]"
+Added Component: Designator=INA169_M0(SOT95P280X125-5N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=INA169_M1(SOT95P280X125-5N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=INA169_M2(SOT95P280X125-5N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=INA169_M3(SOT95P280X125-5N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=INA169(SOT95P280X125-5N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10_M0(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_M1(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_M2(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_M3(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1001X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11_M0(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Component: Designator=R11_M1(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Component: Designator=R11_M2(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Component: Designator=R11_M3(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Component: Designator=RD1(2512-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.529"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "WSL2512.....FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR SENTIDO DE CORRENTE 0,010R-0,040R/ 2W / 1% / 2512 P/N: WSL2512.....FEA18 – VISHAY DALE."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "WSL2512R0200FEA18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S1 Pin=DISCO_P2-33
+Added Pin To Net: NetName=S2 Pin=DISCO_P2-38
+Added Pin To Net: NetName=NRF_CS# Pin=DISCO_P2-41
+Added Pin To Net: NetName=NRF_CE Pin=DISCO_P2-42
+Added Pin To Net: NetName=INT_MPU Pin=DISCO_P2-44
+Added Pin To Net: NetName=GND Pin=INA169-2
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169-3
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169-4
+Added Pin To Net: NetName=NetDF_2 Pin=INA169-5
+Added Pin To Net: NetName=GND Pin=INA169_M0-2
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M0-3
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M0-4
+Added Pin To Net: NetName=NetFM_M0_2 Pin=INA169_M0-5
+Added Pin To Net: NetName=GND Pin=INA169_M1-2
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M1-3
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M1-4
+Added Pin To Net: NetName=NetFM_M1_2 Pin=INA169_M1-5
+Added Pin To Net: NetName=GND Pin=INA169_M2-2
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M2-3
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M2-4
+Added Pin To Net: NetName=NetFM_M2_2 Pin=INA169_M2-5
+Added Pin To Net: NetName=GND Pin=INA169_M3-2
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M3-3
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=INA169_M3-4
+Added Pin To Net: NetName=NetFM_M3_2 Pin=INA169_M3-5
+Added Pin To Net: NetName=GND Pin=R10_M0-1
+Added Pin To Net: NetName=GND Pin=R10_M1-1
+Added Pin To Net: NetName=GND Pin=R10_M2-1
+Added Pin To Net: NetName=GND Pin=R10_M3-1
+Added Pin To Net: NetName=NetFM_M0_2 Pin=R11_M0-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=R11_M0-2
+Added Pin To Net: NetName=NetFM_M1_2 Pin=R11_M1-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=R11_M1-2
+Added Pin To Net: NetName=NetFM_M2_2 Pin=R11_M2-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=R11_M2-2
+Added Pin To Net: NetName=NetFM_M3_2 Pin=R11_M3-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=R11_M3-2
+Added Pin To Net: NetName=NetDF_2 Pin=RD1-1
+Added Pin To Net: NetName=V+ BAT_INA1 Pin=RD1-2
+Change Net Name : Old Net Name=V+ BAT_INA1 New Net Name=VBAT
+Added Pin To Net: NetName=D_CUR Pin=DISCO_P1-16
+Added Pin To Net: NetName=D_CUR Pin=INA169-1
+Added Net: Name=D_CUR
+Added Pin To Net: NetName=M0_CUR Pin=DISCO_P1-7
+Added Pin To Net: NetName=M0_CUR Pin=INA169_M0-1
+Added Pin To Net: NetName=M0_CUR Pin=R10_M0-2
+Added Net: Name=M0_CUR
+Added Pin To Net: NetName=M1_CUR Pin=DISCO_P1-14
+Added Pin To Net: NetName=M1_CUR Pin=INA169_M1-1
+Added Pin To Net: NetName=M1_CUR Pin=R10_M1-2
+Added Net: Name=M1_CUR
+Added Pin To Net: NetName=M2_CUR Pin=DISCO_P1-20
+Added Pin To Net: NetName=M2_CUR Pin=INA169_M2-1
+Added Pin To Net: NetName=M2_CUR Pin=R10_M2-2
+Added Net: Name=M2_CUR
+Added Pin To Net: NetName=M3_CUR Pin=DISCO_P1-13
+Added Pin To Net: NetName=M3_CUR Pin=INA169_M3-1
+Added Pin To Net: NetName=M3_CUR Pin=R10_M3-2
+Added Net: Name=M3_CUR
+Added Pin To Net: NetName=SPI2.MISO Pin=DISCO_P1-38
+Added Pin To Net: NetName=SPI2.MISO Pin=IC3-9
+Added Pin To Net: NetName=SPI2.MISO Pin=SD1-7
+Added Net: Name=SPI2.MISO
+Added Pin To Net: NetName=SPI2.MOSI Pin=DISCO_P1-9
+Added Pin To Net: NetName=SPI2.MOSI Pin=IC3-24
+Added Pin To Net: NetName=SPI2.MOSI Pin=SD1-3
+Added Net: Name=SPI2.MOSI
+Added Pin To Net: NetName=SPI2.SCK Pin=DISCO_P1-34
+Added Pin To Net: NetName=SPI2.SCK Pin=IC3-23
+Added Pin To Net: NetName=SPI2.SCK Pin=SD1-5
+Added Net: Name=SPI2.SCK
+Added Member To Class: ClassName=M0 Member=Component INA169_M0 (INA169) INA169NA
+Added Member To Class: ClassName=M1 Member=Component INA169_M1 (INA169) INA169NA
+Added Member To Class: ClassName=M2 Member=Component INA169_M2 (INA169) INA169NA
+Added Member To Class: ClassName=M3 Member=Component INA169_M3 (INA169) INA169NA
+Added Member To Class: ClassName=Mother_board_SSL2018 Member=Component INA169 INA169NA
+Added Member To Class: ClassName=M0 Member=Component R10_M0 (R10) 1K
+Added Member To Class: ClassName=M1 Member=Component R10_M1 (R10) 1K
+Added Member To Class: ClassName=M2 Member=Component R10_M2 (R10) 1K
+Added Member To Class: ClassName=M3 Member=Component R10_M3 (R10) 1K
+Added Member To Class: ClassName=M0 Member=Component R11_M0 (R11) R2512-0R02
+Added Member To Class: ClassName=M1 Member=Component R11_M1 (R11) R2512-0R02
+Added Member To Class: ClassName=M2 Member=Component R11_M2 (R11) R2512-0R02
+Added Member To Class: ClassName=M3 Member=Component R11_M3 (R11) R2512-0R02
+Added Member To Class: ClassName=Mother_board_SSL2018 Member=Component RD1 R2512-0R02
+Added Member To Class: ClassName=DIRECT Member=Wire VBAT

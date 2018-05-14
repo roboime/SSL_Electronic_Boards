@@ -1,0 +1,9 @@
+
+# Created by https://www.gitignore.io/api/altium
+
+### Altium ###
+
+# History Folders
+**/History/*
+
+# End of https://www.gitignore.io/api/altium

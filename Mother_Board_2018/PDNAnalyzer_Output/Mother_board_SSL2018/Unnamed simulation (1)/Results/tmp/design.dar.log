@@ -1,0 +1,90 @@
+
+Importing C:\Users\Public\Documents\Altium\Projects\Mother_Board_SSL2018\PDNAnalyzer_Output\Mother_board_SSL2018\Unnamed simulation (1)\odb.tgz... [Wed May  9 18:24:47 2018]
+============================================================
+Reading ODB++ database ...
+
+file not found: odb/misc/info.Z
+Reading file odb/matrix/matrix...
+Reading file odb/steps/pcb/profile...
+Reading file odb/steps/pcb/eda/data...
+Origin of ODB++ database:  Altium Designer file - Version 1.0.0.30000
+eda data: 28 packages, 104 nets.
+Reading file odb/steps/pcb/layers/top_solder/features...
+668 SWHs on layer TOP_SOLDER
+
+Reading file odb/steps/pcb/layers/top_layer/features...
+1124 SWHs on layer TOP_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_layer/features...
+1043 SWHs on layer BOTTOM_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_solder/features...
+501 SWHs on layer BOTTOM_SOLDER
+
+Added substrate layer SUBSTRATE-1 below etch layer TOP_LAYER
+Reading file odb/steps/pcb/layers/top_solder/attrlist...
+Reading file odb/steps/pcb/layers/top_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_solder/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'TOP_SOLDER', 'TOP_LAYER', 'BOTTOM_LAYER', 'BOTTOM_SOLDER'
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill/features...
+Reading file odb/steps/pcb/layers/comp_+_top/components...
+Reading file odb/steps/pcb/layers/comp_+_bot/components...
+WARNING: different refdes prefixes in component group 100nF: 
+	 MC_C2
+	 MC_C3
+	 C1
+	 C5
+	 NRF_C1
+	 MC_C4
+	 MC_C1
+	 MC_C5
+	 C6
+WARNING: different refdes prefixes in component group MF-MSMF: 
+	 FM_M1
+	 FM_M3
+	 FM_M0
+	 DF
+	 FM_M2
+WARNING: different refdes prefixes in component group 0022112022: 
+	 LED1
+	 SEN2
+	 LED2
+	 SEN1
+WARNING: 13 duplicate vertices ignored
+WARNING: 6 plated drill holes without logical net information
+========================================
+INFO: Created CSV file (C:\Users\Public\Documents\Altium\Projects\Mother_Board_SSL2018\PDNAnalyzer_Output\Mother_board_SSL2018\Unnamed simulation (1)\Results\tmp\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (C:\Users\Public\Documents\Altium\Projects\Mother_Board_SSL2018\PDNAnalyzer_Output\Mother_board_SSL2018\Unnamed simulation (1)\Results\tmp\design.csv)...
+Detected ' ; ' as separator.
+
+Value-string translations:
+	0022112022 ->  22.112022000000003 mH (L)
+	0R02 ->  20.0 mOhms (R)
+	100R ->  100.0 Ohms (R)
+	100nF ->  100.0 nF (C)
+	10K ->  10.0 kOhms (R)
+	10uF ->  10.0 uF (C)
+	1K ->  1.0 kOhms (R)
+	1uF ->  1.0 uF (C)
+	22uF ->  22.0 uF (C)
+	330R ->  330.0 Ohms (R)
+	33K ->  33.0 kOhms (R)
+WARNING: unphysical value: 0.022112022000000002 H
+WARNING: unable to interpret: CAP_TANQUE
+WARNING: unable to interpret: CAP-TANQUE
+WARNING: unable to interpret: SWITCH_TACTILE_6_x_3.5_x_4.3_mm
+WARNING: unable to interpret: INA169
+WARNING: unable to interpret: CLF7045T
+WARNING: unable to interpret: LD1117S33CTR
+WARNING: unable to interpret: LED
+WARNING: unable to interpret: DRIBLE
+========================================
+WARNING: There were some warnings while importing the auto-generated CSV-file 'C:\Users\Public\Documents\Altium\Projects\Mother_Board_SSL2018\PDNAnalyzer_Output\Mother_board_SSL2018\Unnamed simulation (1)\Results\tmp\design.csv'. Please review the auto-generated file under Parts Editor->Load (csv).
+========================================
+Unifying library padstacks...
+Finished reading database.
+============================================================

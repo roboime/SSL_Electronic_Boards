@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=I2C.SCL Pin=R38-2
+Removed Pin From Net: NetName=I2C.SDA Pin=R39-2
+Removed Pin From Net: NetName=VBAT Pin=RL1-1
+Removed Pin From Net: NetName=VBAT Pin=RL2-1
+Removed Member From Class: ClassName=Periféricos Member=R38
+Removed Member From Class: ClassName=Periféricos Member=R39
+Added Component: Designator=MC_R1(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7K"; VariantName = "[No Variations]"
+Added Component: Designator=MC_R2(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I2C.SCL Pin=IC4-4
+Added Pin To Net: NetName=I2C.SDA Pin=IC4-5
+Added Pin To Net: NetName=I2C.SCL Pin=MC_R1-1
+Added Pin To Net: NetName=VCC Pin=MC_R1-2
+Added Pin To Net: NetName=I2C.SDA Pin=MC_R2-1
+Added Pin To Net: NetName=VCC Pin=MC_R2-2
+Added Pin To Net: NetName=VCC Pin=RL1-1
+Added Pin To Net: NetName=VCC Pin=RL2-1
+Added Member To Class: ClassName=Mother_board_SSL2018 Member=Component MC_R1 4,7k
+Added Member To Class: ClassName=Mother_board_SSL2018 Member=Component MC_R2 4,7k

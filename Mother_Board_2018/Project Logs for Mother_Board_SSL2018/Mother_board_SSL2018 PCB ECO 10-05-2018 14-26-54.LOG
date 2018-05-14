@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=uSD_CS Pin=DISCO_P2-35
+Removed Pin From Net: NetName=NRF_CE Pin=DISCO_P2-39
+Added Pin To Net: NetName=uSD_CS Pin=DISCO_P2-31
+Added Pin To Net: NetName=NRF_CE Pin=DISCO_P2-35

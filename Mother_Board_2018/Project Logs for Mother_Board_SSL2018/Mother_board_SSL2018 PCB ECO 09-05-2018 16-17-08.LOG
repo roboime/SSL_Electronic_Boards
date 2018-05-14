@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CT Pin=DISCO_P1-22
+Added Component: Designator=Kick?(SOP250P750X350-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part No"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Kick?-4
+Added Pin To Net: NetName=CT Pin=Kick?-5
+Added Pin To Net: NetName=CT_uc Pin=DISCO_P1-22
+Added Pin To Net: NetName=CT_uc Pin=Kick?-6
+Added Net: Name=CT_uc
+Added Member To Class: ClassName=Periféricos Member=Component Display HDSP-F513
+Added Member To Class: ClassName=Mother_board_SSL2018 Member=Component Kick? JS202011SCQN
+Added Member To Class: ClassName=Mother_board_SSL2018 Member=Component MC_R2 4,7k

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SCK Pin=DISCO_P1-34
+Removed Pin From Net: NetName=MISO Pin=DISCO_P1-38
+Added Pin To Net: NetName=MOSI Pin=IC3-24
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SPI2_MISO Pin=DISCO_P1-38
+Added Net: Name=SPI2_MISO
+Added Pin To Net: NetName=SPI2_SCK Pin=DISCO_P1-34
+Added Net: Name=SPI2_SCK

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=MOSI Pin=DISCO_P1-9
+Added Pin To Net: NetName=MISO Pin=DISCO_P1-38
+Added Pin To Net: NetName=MPU_CS Pin=IC3-22
+Added Pin To Net: NetName=I2C.SCL Pin=IC4-4
+Added Pin To Net: NetName=I2C.SDA Pin=IC4-5
+Added Pin To Net: NetName=uSD_CS Pin=SD1-2
