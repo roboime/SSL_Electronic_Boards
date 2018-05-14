@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Kicker2018_PCB.PcbDoc   12/05/2018  11:42:12
+NCDrill File Report For: Kicker2018_PCB.PcbDoc   02/05/2018  17:00:47
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,14 +8,10 @@ ASCII RoundHoles File : Kicker2018_PCB.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      12mil (0.3mm)                                             Round             4         PTH        1.66inch (42.19mm)
-T2      24mil (0.6mm)                                             Round             17        PTH        7.87inch (199.81mm)
-T3      28mil (0.7mm)                                             Round             2         PTH        0.07inch (1.80mm)
-T4      28mil (0.711mm)                                           Round             2         PTH        0.13inch (3.20mm)
-T5      30mil (0.75mm)                                            Round             4         PTH        0.63inch (16.00mm)
-T6      35mil (0.9mm)                                             Round             24        PTH        6.70inch (170.18mm)
-T7      43mil (1.1mm)                                             Round             7         PTH        2.43inch (61.79mm)
-T8      59mil (1.5mm)                                             Round             6         PTH        1.57inch (39.88mm)
+T2      35mil (0.9mm)                                             Round             24        PTH        6.70inch (170.18mm)
+T3      43mil (1.1mm)                                             Round             7         PTH        2.43inch (61.79mm)
+T4      59mil (1.5mm)                                             Round             6         PTH        1.57inch (39.88mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              66
+Totals                                                                              41
 
 Total Processing Time (hh:mm:ss) : 00:00:00
