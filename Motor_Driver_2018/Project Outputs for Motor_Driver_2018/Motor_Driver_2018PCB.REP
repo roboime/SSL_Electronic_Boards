@@ -1,9 +1,9 @@
 *************************************************************
-FileName = Kicker2018_PCB.GBR
+FileName = Motor_Driver_2018PCB.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top Layer
-      File : Kicker2018_PCB.GTL
+      File : Motor_Driver_2018PCB.GTL
 
     Adding Layer      : Top Layer
 
@@ -23,18 +23,11 @@ Used DCodes :
     D19
     D20
     D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
 *************************************************************
 
 *************************************************************
 Generating : Bottom Layer
-      File : Kicker2018_PCB.GBL
+      File : Motor_Driver_2018PCB.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -46,48 +39,22 @@ Used DCodes :
     D19
     D20
     D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : Kicker2018_PCB.GTO
+      File : Motor_Driver_2018PCB.GTO
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D18
-    D45
-    D46
-    D47
+    D22
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : Kicker2018_PCB.GTP
+      File : Motor_Driver_2018PCB.GTP
 
     Adding Layer      : Top Paste
 
@@ -109,7 +76,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Solder
-      File : Kicker2018_PCB.GTS
+      File : Motor_Driver_2018PCB.GTS
 
     Adding Layer      : Top Solder
 
@@ -119,28 +86,22 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : Kicker2018_PCB.GBS
+      File : Motor_Driver_2018PCB.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -150,36 +111,14 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : Kicker2018_PCB.GBP
+      File : Motor_Driver_2018PCB.GBP
 
     Adding Layer      : Bottom Paste
 
@@ -189,47 +128,26 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
 *************************************************************
 
 *************************************************************
 Generating : Bottom Overlay
-      File : Kicker2018_PCB.GBO
+      File : Motor_Driver_2018PCB.GBO
 
     Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D18
-    D45
-    D46
-    D81
-    D82
 *************************************************************
 
 *************************************************************
 Generating : Mechanical 1
-      File : Kicker2018_PCB.GM1
+      File : Motor_Driver_2018PCB.GM1
 
     Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D20
-    D81
+    D34
 *************************************************************
 
