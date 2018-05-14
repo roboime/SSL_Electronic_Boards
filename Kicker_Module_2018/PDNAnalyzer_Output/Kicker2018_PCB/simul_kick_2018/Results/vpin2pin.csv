@@ -1,0 +1,7 @@
+vrefdes,vpin,refdes,pin
+VCOMP0,0,CON_CHIP_KICK,2
+VCOMP0,1,CON_CHIP_KICK,1
+VCOMP1,0,pdna_comp_(+)_CON_CAP_(-)_1,1
+VCOMP1,1,pdna_comp_(+)_CON_CAP_(-)_1,2
+VCOMP2,0,Q3,3
+VCOMP2,1,Q3,1
