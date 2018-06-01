@@ -1,0 +1,4 @@
+Change Component Description : Designator=D5 Old Description= New Description=Schottky Diodes & Rectifiers 40 Volt 0.2 Amp Single
+Change Component Description : Designator=D6 Old Description= New Description=Schottky Diodes & Rectifiers 40 Volt 0.2 Amp Single
+Added Member To Class: ClassName=Kicker2018 Member=Component D5 BAS40 Diode
+Added Member To Class: ClassName=Kicker2018 Member=Component D6 BAS40 Diode

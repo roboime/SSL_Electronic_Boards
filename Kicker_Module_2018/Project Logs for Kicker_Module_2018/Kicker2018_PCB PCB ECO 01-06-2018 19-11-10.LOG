@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CHARGE_ENABLE Pin=D5-2
+Removed Pin From Net: NetName=KICK_SIGNAL Pin=D6-2
+Change Component Comment : Designator=D5 Old Comment=BAS40 New Comment=D+
+Change Component Comment : Designator=D6 Old Comment=BAS40 New Comment=D+

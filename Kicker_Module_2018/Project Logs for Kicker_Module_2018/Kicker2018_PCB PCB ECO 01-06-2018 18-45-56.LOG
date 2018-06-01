@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CHIP_KICK_SIGNAL Pin=P1-10
+Added Component: Designator=D5(DIODE SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(DIODE SOT23)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=CHARGE_ENABLE Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=KICK_SIGNAL Pin=D6-2
+Added Member To Class: ClassName=Kicker2018 Member=Component D5 BAS40
+Added Member To Class: ClassName=Kicker2018 Member=Component D6 BAS40

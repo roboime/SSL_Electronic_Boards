@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=KICK_SIGNAL Pin=P1-11
+Removed Pin From Net: NetName=CHARGE_ENABLE Pin=P1-12
+Added Pin To Net: NetName=Net1_1 Pin=P1-11
+Added Net: Name=Net1_1
