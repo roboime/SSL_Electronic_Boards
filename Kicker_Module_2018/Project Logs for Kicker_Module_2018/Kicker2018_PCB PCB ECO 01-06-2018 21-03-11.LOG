@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CHARGE_ENABLE Pin=D5-3
+Removed Pin From Net: NetName=KICK_SIGNAL Pin=D6-3
+Change Component Footprint: Designator=D5 Old Footprint=DIODE SOT23 New Footprint=DIODE SOD-523
+Change Component Footprint: Designator=D6 Old Footprint=DIODE SOT23 New Footprint=DIODE SOD-523
+Change Component Description : Designator=D5 Old Description=Schottky Diodes & Rectifiers 40 Volt 0.2 Amp Single New Description=
+Change Component Description : Designator=D6 Old Description=Schottky Diodes & Rectifiers 40 Volt 0.2 Amp Single New Description=
+Added Pin To Net: NetName=CHARGE_ENABLE Pin=D5-2
+Added Pin To Net: NetName=KICK_SIGNAL Pin=D6-2
