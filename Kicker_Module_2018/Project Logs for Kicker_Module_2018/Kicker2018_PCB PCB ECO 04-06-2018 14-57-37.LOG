@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=Vs Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Change Component Comment : Designator=TP_S Old Comment=15V New Comment=
+Change Component Comment : Designator=CE Old Comment=CHARGE_ENABLE New Comment=SW-SPST
+Change Component Comment : Designator=Q1 Old Comment=CSD18540 New Comment=CSD18540Q5BT
+Change Component Comment : Designator=TP_D Old Comment=DONE New Comment=
+Change Component Comment : Designator=TP_G Old Comment=GATE New Comment=
+Change Component Comment : Designator=S1 Old Comment=KICK New Comment=SW-SPST
+Change Component Comment : Designator=D4 Old Comment=PMEG30 New Comment=PMEG3050EP,115
+Change Component Designator: OldDesignator=BAS40 NewDesignator=D5
+Change Component Designator: OldDesignator=BAS40 NewDesignator=D6
+Change Component Designator: OldDesignator=ES3J NewDesignator=D2
+Change Component Designator: OldDesignator=ES3J NewDesignator=D3
+Change Component Designator: OldDesignator=R015 NewDesignator=R5
+Added Component: Designator=C9(NIC-CAPA2-10X10_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.030.094"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "EEEFK1H221P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vs Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Member To Class: ClassName=Kicker2018 Member=Component D3 ES3J
+Added Member To Class: ClassName=Kicker2018 Member=Component D6 BAS40 Diode

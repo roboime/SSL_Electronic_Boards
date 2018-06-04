@@ -2,8 +2,10 @@
 FileName = Kicker2018_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Kicker2018_PCB.GTL
+Generating : Top Solder
+      File : Kicker2018_PCB.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -11,12 +13,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
     D16
     D17
     D18
@@ -30,6 +26,82 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : Kicker2018_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Kicker2018_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Kicker2018_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Kicker2018_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Kicker2018_PCB.GBL
 
@@ -39,14 +111,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
+    D10
+    D11
     D26
     D27
     D28
@@ -61,17 +127,90 @@ Used DCodes :
     D37
     D38
     D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : Kicker2018_PCB.GM1
+Generating : Top Paste
+      File : Kicker2018_PCB.GTP
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Kicker2018_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
     D40
     D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Kicker2018_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
 *************************************************************
 
