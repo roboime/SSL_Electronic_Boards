@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=IC? Old DesignItemId=PWD13F60_1-01.A.5 New DesignItemId=PWD13F60_1-01.A.7
+Change Component Footprint: Designator=IC? Old Footprint=QFN50P1000X1300X85_HS-61N New Footprint=QFN50P1000X1300X85_HS-61N
+Change Component Comment : Designator=IC? Old Comment=PWD13F60 New Comment=PWD13F60_1
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component IC? PWD13F60_1

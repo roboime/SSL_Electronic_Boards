@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\estagiario01\Downloads\SSL_Electronic_Boards-master\Motor_Driver_2018\Motor_Driver_2018PCB.PcbDoc
+DRC Rules Export File for PCB: C:\Users\OniasC\Desktop\ROBOIME\Eletrônica\SSL_Boards\SSL_Electronic_Boards\Motor_Driver_2018\Motor_Driver_2018PCB.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00

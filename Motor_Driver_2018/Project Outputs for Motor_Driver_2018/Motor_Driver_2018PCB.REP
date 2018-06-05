@@ -2,79 +2,13 @@
 FileName = Motor_Driver_2018PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Solder
-      File : Motor_Driver_2018PCB.GTS
+Generating : Bottom Overlay
+      File : Motor_Driver_2018PCB.GBO
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Motor_Driver_2018PCB.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D30
-    D31
-    D32
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Motor_Driver_2018PCB.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Motor_Driver_2018PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D31
-    D32
-    D33
-    D34
 *************************************************************
 
 *************************************************************
@@ -100,6 +34,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Solder
+      File : Motor_Driver_2018PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Motor_Driver_2018PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Motor_Driver_2018PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D34
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : Motor_Driver_2018PCB.GBS
 
@@ -113,7 +93,22 @@ Generating : Bottom Solder
 Used DCodes :
     D27
     D28
-    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Motor_Driver_2018PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -131,23 +126,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Motor_Driver_2018PCB.GTO
+Generating : Top Layer
+      File : Motor_Driver_2018PCB.GTL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Motor_Driver_2018PCB.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D29
+    D30
+    D31
+    D32
 *************************************************************
 

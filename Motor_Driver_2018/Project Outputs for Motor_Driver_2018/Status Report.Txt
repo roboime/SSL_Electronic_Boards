@@ -1,12 +1,21 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Motor_Driver_2018.PrjPcb]
-   Generated File[Motor_Driver_2018PCB.TXT]
-   Generated File[Motor_Driver_2018PCB.LDP]
-   Generated File[Motor_Driver_2018PCB.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Motor_Driver_2018.PrjPcb]
+   Generated File[Motor_Driver_2018PCB.GTO]
+   Generated File[Motor_Driver_2018PCB.GTP]
+   Generated File[Motor_Driver_2018PCB.GTS]
+   Generated File[Motor_Driver_2018PCB.GTL]
+   Generated File[Motor_Driver_2018PCB.GBL]
+   Generated File[Motor_Driver_2018PCB.GBS]
+   Generated File[Motor_Driver_2018PCB.GBP]
+   Generated File[Motor_Driver_2018PCB.GBO]
+   Generated File[Motor_Driver_2018PCB.GM1]
+   Generated File[Motor_Driver_2018PCB.RUL]
+   Generated File[Motor_Driver_2018PCB.EXTREP]
+   Generated File[Motor_Driver_2018PCB.REP]
 
 
-Files Generated   : 3
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 16:36:39 On 04/06/2018
+Finished Output Generation At 23:20:50 On 04/06/2018
