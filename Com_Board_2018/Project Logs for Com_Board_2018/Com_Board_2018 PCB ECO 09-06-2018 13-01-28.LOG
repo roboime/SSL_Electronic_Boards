@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=LED_COM_L-1
+Added Component: Designator=NRF_C2(0805-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.019.590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "GRM21BR61E106KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=NRF_C2-1
+Added Pin To Net: NetName=GND Pin=NRF_C2-2
+Added Member To Class: ClassName=Com_board_2018 Member=Component NRF_C2 10uF

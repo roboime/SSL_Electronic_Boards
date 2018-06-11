@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=LED_BALL_R-1
+Removed Pin From Net: NetName=GND Pin=LED_COM_R-1
+Removed Pin From Net: NetName=GND Pin=LED_GREEN_R-1
+Removed Pin From Net: NetName=GND Pin=LED_ORANGE_R-1
+Removed Pin From Net: NetName=LED_R Pin=R30-1
+Removed Pin From Net: NetName=Blue_led Pin=R32-1
+Removed Pin From Net: NetName=LED_G Pin=R34-1
+Removed Pin From Net: NetName=LED_O Pin=R36-1
+Removed Member From Class: ClassName=Periféricos Member=LED_BALL_R
+Removed Member From Class: ClassName=Periféricos Member=LED_COM_R
+Removed Member From Class: ClassName=Periféricos Member=LED_GREEN_R
+Removed Member From Class: ClassName=Periféricos Member=LED_ORANGE_R
+Removed Member From Class: ClassName=Periféricos Member=R30
+Removed Member From Class: ClassName=Periféricos Member=R32
+Removed Member From Class: ClassName=Periféricos Member=R34
+Removed Member From Class: ClassName=Periféricos Member=R36
+Added Room: Name=Com_board_2018
+Added Room: Name=Periféricos

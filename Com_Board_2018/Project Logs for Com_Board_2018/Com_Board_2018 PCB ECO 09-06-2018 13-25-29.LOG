@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=LED_BALL_L-1
+Removed Pin From Net: NetName=GND Pin=LED_GREEN_L-1
+Removed Pin From Net: NetName=GND Pin=LED_ORANGE_L-1
+Removed Pin From Net: NetName=LED_R Pin=R29-1
+Removed Pin From Net: NetName=LED_G Pin=R33-1
+Removed Pin From Net: NetName=LED_O Pin=R35-1
+Added Component: Designator=LED_BALL_L?(LED-5MM-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED_COM_L?(LED-5MM-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED_GREEN_L?(LED-5MM-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED_ORANGE_L?(LED-5MM-PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0402-RES-HD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.280.029.506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-2RKF3300X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_B Pin=DISCO_P1-47
+Added Pin To Net: NetName=GND Pin=LED_BALL_L?-1
+Added Pin To Net: NetName=GND Pin=LED_COM_L?-1
+Added Pin To Net: NetName=GND Pin=LED_GREEN_L?-1
+Added Pin To Net: NetName=GND Pin=LED_ORANGE_L?-1
+Added Pin To Net: NetName=LED_R Pin=R1-1
+Added Pin To Net: NetName=LED_B Pin=R2-1
+Added Pin To Net: NetName=LED_G Pin=R3-1
+Added Pin To Net: NetName=LED_O Pin=R4-1
+Added Pin To Net: NetName=NetLED_BALL_L?_2 Pin=LED_BALL_L?-2
+Added Pin To Net: NetName=NetLED_BALL_L?_2 Pin=R1-2
+Added Net: Name=NetLED_BALL_L?_2
+Added Pin To Net: NetName=NetLED_COM_L?_2 Pin=LED_COM_L?-2
+Added Pin To Net: NetName=NetLED_COM_L?_2 Pin=R2-2
+Added Net: Name=NetLED_COM_L?_2
+Added Pin To Net: NetName=NetLED_GREEN_L?_2 Pin=LED_GREEN_L?-2
+Added Pin To Net: NetName=NetLED_GREEN_L?_2 Pin=R3-2
+Added Net: Name=NetLED_GREEN_L?_2
+Added Pin To Net: NetName=NetLED_ORANGE_L?_2 Pin=LED_ORANGE_L?-2
+Added Pin To Net: NetName=NetLED_ORANGE_L?_2 Pin=R4-2
+Added Net: Name=NetLED_ORANGE_L?_2
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_BALL_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_COM_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_GREEN_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_ORANGE_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component R1 330R
+Added Member To Class: ClassName=Com_board_2018 Member=Component R2 330R
+Added Member To Class: ClassName=Com_board_2018 Member=Component R3 330R
+Added Member To Class: ClassName=Com_board_2018 Member=Component R4 330R
+Added Room: Name=Com_board_2018

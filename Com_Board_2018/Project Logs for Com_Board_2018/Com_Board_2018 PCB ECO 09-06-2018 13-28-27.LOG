@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=LED_BALL_L NewDesignator=LED_BALL_L?
+Change Component Designator: OldDesignator=LED_COM_L NewDesignator=LED_COM_L?
+Change Component Designator: OldDesignator=LED_GREEN_L NewDesignator=LED_GREEN_L?
+Change Component Designator: OldDesignator=LED_ORANGE_L NewDesignator=LED_ORANGE_L?
+Change Component Designator: OldDesignator=R29 NewDesignator=R1
+Change Component Designator: OldDesignator=R31 NewDesignator=R2
+Change Component Designator: OldDesignator=R33 NewDesignator=R3
+Change Component Designator: OldDesignator=R35 NewDesignator=R4
+Added Pin To Net: NetName=LED_B Pin=DISCO_P1-47
+Added Pin To Net: NetName=NetLED_BALL_L?_2 Pin=LED_BALL_L?-2
+Added Pin To Net: NetName=GND Pin=LED_COM_L?-1
+Added Pin To Net: NetName=NetLED_COM_L?_2 Pin=LED_COM_L?-2
+Added Pin To Net: NetName=NetLED_GREEN_L?_2 Pin=LED_GREEN_L?-2
+Added Pin To Net: NetName=NetLED_ORANGE_L?_2 Pin=LED_ORANGE_L?-2
+Added Pin To Net: NetName=NetLED_BALL_L?_2 Pin=R1-2
+Added Pin To Net: NetName=LED_B Pin=R2-1
+Added Pin To Net: NetName=NetLED_COM_L?_2 Pin=R2-2
+Added Pin To Net: NetName=NetLED_GREEN_L?_2 Pin=R3-2
+Added Pin To Net: NetName=NetLED_ORANGE_L?_2 Pin=R4-2
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_BALL_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_COM_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_GREEN_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component LED_ORANGE_L? LED
+Added Member To Class: ClassName=Com_board_2018 Member=Component R1 330R
+Added Member To Class: ClassName=Com_board_2018 Member=Component R2 330R
+Added Member To Class: ClassName=Com_board_2018 Member=Component R3 330R
+Added Member To Class: ClassName=Com_board_2018 Member=Component R4 330R
+Added Room: Name=Com_board_2018

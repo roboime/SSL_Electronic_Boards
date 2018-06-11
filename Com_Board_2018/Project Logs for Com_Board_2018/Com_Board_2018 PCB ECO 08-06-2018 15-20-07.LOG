@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=LED_BALL_R-1
+Removed Pin From Net: NetName=GND Pin=LED_COM_R-1
+Removed Pin From Net: NetName=GND Pin=LED_GREEN_R-1
+Removed Pin From Net: NetName=GND Pin=LED_ORANGE_R-1
+Removed Pin From Net: NetName=LED_R Pin=R30-1
+Removed Pin From Net: NetName=Blue_led Pin=R32-1
+Removed Pin From Net: NetName=LED_G Pin=R34-1
+Removed Pin From Net: NetName=LED_O Pin=R36-1
+Added Member To Class: ClassName=Periféricos Member=Component LED_BALL_L LED
+Added Member To Class: ClassName=Periféricos Member=Component LED_COM_L LED
+Added Member To Class: ClassName=Periféricos Member=Component LED_GREEN_L LED
+Added Member To Class: ClassName=Periféricos Member=Component LED_ORANGE_L LED
+Added Member To Class: ClassName=Periféricos Member=Component R29 330R
+Added Member To Class: ClassName=Periféricos Member=Component R31 330R
+Added Member To Class: ClassName=Periféricos Member=Component R33 330R
+Added Member To Class: ClassName=Periféricos Member=Component R35 330R

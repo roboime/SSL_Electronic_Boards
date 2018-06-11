@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Com_Board_2018.PrjPcb]
+   Generated File[Com_Board_2018.TXT]
+   Generated File[Com_Board_2018.LDP]
+   Generated File[Com_Board_2018.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:07:34 On 09/06/2018
