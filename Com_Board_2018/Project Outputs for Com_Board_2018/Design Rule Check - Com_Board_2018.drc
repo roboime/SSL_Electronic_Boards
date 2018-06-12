@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\estagiario02\Desktop\SSL_Electronic_Boards\SSL_Electronic_Boards\Com_Board_2018\Com_Board_2018.PcbDoc
-Date     : 09/06/2018
-Time     : 14:47:10
+PCB File : C:\Users\OniasC\Desktop\ROBOIME\Eletrônica\SSL_Boards\SSL_Electronic_Boards\Com_Board_2018\Com_Board_2018.PcbDoc
+Date     : 12/06/2018
+Time     : 02:17:17
 
 Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
@@ -10,11 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad DISCO_P1-4(259.462mm,40.784mm) on Multi-Layer And Pad DISCO_P1-3(262.002mm,40.784mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad DISCO_P2-6(208.662mm,43.324mm) on Multi-Layer And Pad DISCO_P2-5(211.202mm,43.324mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Pad MC_C1-2(206.05mm,63.575mm) on Top Layer And Pad MC_C4-2(206.175mm,43.25mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC Between Track (211.202mm,43.324mm)(211.31mm,43.216mm) on Top Layer And Pad MC_C3-1(256.795mm,40.93mm) on Top Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -43,31 +39,10 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018'))
-   Violation between Room Definition: Between DIP Component 04x02_Conector_Female-PPPC042LFBN-RC (225.35mm,113.45mm) on Top Layer And Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) 
-   Violation between Room Definition: Between DIP Component DISCO_P1-SFH11-PBPC-D25-ST-BK (260.732mm,68.724mm) on Top Layer And Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) 
-   Violation between Room Definition: Between DIP Component DISCO_P2-SFH11-PBPC-D25-ST-BK (209.932mm,68.724mm) on Top Layer And Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And Small Component LED_BLUE-LED (284.535mm,80.2mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And Small Component LED_GREEN-LED (284.535mm,59.1mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And Small Component LED_ORANGE-LED (284.535mm,73.075mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And Small Component LED_RED-LED (284.535mm,65.65mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component MC_C1-100nF (206.05mm,63.175mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component MC_C2-100nF (265.025mm,40.45mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component MC_C3-100nF (256.795mm,40.53mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component MC_C4-100nF (206.175mm,42.85mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component MC_C5-100nF (213.742mm,42.816mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component NRF_C1-100nF (224.2mm,107.3mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component NRF_C2-10uF (224.6mm,105.575mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component R1-330R (280.75mm,66.125mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component R2-330R (280.75mm,80.625mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component R3-330R (280.75mm,59.575mm) on Top Layer 
-   Violation between Room Definition: Between Room Com_board_2018 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Com_board_2018')) And SMT Small Component R4-330R (280.75mm,73.5mm) on Top Layer 
-Rule Violations :18
-
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 22
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

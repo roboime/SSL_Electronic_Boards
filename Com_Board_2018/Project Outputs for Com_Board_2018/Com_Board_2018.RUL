@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\estagiario02\Desktop\SSL_Electronic_Boards\SSL_Electronic_Boards\Com_Board_2018\Com_Board_2018.PcbDoc
+DRC Rules Export File for PCB: C:\Users\OniasC\Desktop\ROBOIME\Eletrônica\SSL_Boards\SSL_Electronic_Boards\Com_Board_2018\Com_Board_2018.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
