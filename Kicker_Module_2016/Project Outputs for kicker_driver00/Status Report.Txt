@@ -1,10 +1,9 @@
-Output: Mixed Sim
-Type  : AdvSimNetlist
-From  : Project [kicker_driver00.PrjPcb]
-   Generated File[kicker_driver00.nsx]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [kicker_driver00.PrjPcb]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 20:00:00 On 08/09/2017
+Finished Output Generation At 16:40:35 On 21/02/2019

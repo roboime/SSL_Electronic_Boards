@@ -1,0 +1,20 @@
+*************************************************************
+FileName = Motor_Driver_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : Motor_Driver_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
