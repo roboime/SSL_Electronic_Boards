@@ -1,0 +1,311 @@
+Removed Pin From Net: NetName=S1 Pin=DISCO_P2-33
+Removed Pin From Net: NetName=S2 Pin=DISCO_P2-38
+Removed Pin From Net: NetName=M0_MAH Pin=M0-MC-0
+Removed Pin From Net: NetName=M0_MAL Pin=M0-MC-1
+Removed Pin From Net: NetName=M0_MBH Pin=M0-MC-2
+Removed Pin From Net: NetName=M0_MBL Pin=M0-MC-3
+Removed Pin From Net: NetName=MB_M0 Pin=M0-MOTOR-0
+Removed Pin From Net: NetName=MA_M0 Pin=M0-MOTOR-1
+Removed Pin From Net: NetName=NetC1_M0_2 Pin=M0-MOTOR-2
+Removed Pin From Net: NetName=GND Pin=M0-MOTOR-3
+Removed Pin From Net: NetName=M2_MAH Pin=M1-MC-0
+Removed Pin From Net: NetName=M2_MAL Pin=M1-MC-1
+Removed Pin From Net: NetName=M2_MBH Pin=M1-MC-2
+Removed Pin From Net: NetName=M2_MBL Pin=M1-MC-3
+Removed Pin From Net: NetName=MB_M2 Pin=M1-MOTOR-0
+Removed Pin From Net: NetName=MA_M2 Pin=M1-MOTOR-1
+Removed Pin From Net: NetName=NetC1_M2_2 Pin=M1-MOTOR-2
+Removed Pin From Net: NetName=GND Pin=M1-MOTOR-3
+Removed Pin From Net: NetName=M3_MAH Pin=M2-MC-0
+Removed Pin From Net: NetName=M3_MAL Pin=M2-MC-1
+Removed Pin From Net: NetName=M3_MBH Pin=M2-MC-2
+Removed Pin From Net: NetName=M3_MBL Pin=M2-MC-3
+Removed Pin From Net: NetName=MB_M3 Pin=M2-MOTOR-0
+Removed Pin From Net: NetName=MA_M3 Pin=M2-MOTOR-1
+Removed Pin From Net: NetName=NetC1_M3_2 Pin=M2-MOTOR-2
+Removed Pin From Net: NetName=GND Pin=M2-MOTOR-3
+Removed Pin From Net: NetName=M1_MAH Pin=M3-MC-0
+Removed Pin From Net: NetName=M1_MAL Pin=M3-MC-1
+Removed Pin From Net: NetName=M1_MBH Pin=M3-MC-2
+Removed Pin From Net: NetName=M1_MBL Pin=M3-MC-3
+Removed Pin From Net: NetName=MB_M1 Pin=M3-MOTOR-0
+Removed Pin From Net: NetName=MA_M1 Pin=M3-MOTOR-1
+Removed Pin From Net: NetName=NetC1_M1_2 Pin=M3-MOTOR-2
+Removed Pin From Net: NetName=GND Pin=M3-MOTOR-3
+Removed Pin From Net: NetName=GND Pin=MC_C2-1
+Removed Pin From Net: NetName=VCC Pin=MC_C2-2
+Removed Pin From Net: NetName=VCC Pin=MC_C3-1
+Removed Pin From Net: NetName=GND Pin=MC_C3-2
+Removed Pin From Net: NetName=I2C.SCL Pin=MC_R1-1
+Removed Pin From Net: NetName=I2C.SDA Pin=MC_R2-1
+Removed Pin From Net: NetName=GND Pin=P1_Chute-1
+Removed Pin From Net: NetName=GND Pin=P1_Chute-2
+Removed Pin From Net: NetName=GND Pin=P1_Chute-3
+Removed Pin From Net: NetName=GND Pin=P1_Chute-4
+Removed Pin From Net: NetName=GND Pin=P1_Chute-5
+Removed Pin From Net: NetName=GND Pin=P1_Chute-6
+Removed Pin From Net: NetName=CT Pin=P1_Chute-10
+Removed Pin From Net: NetName=CB Pin=P1_Chute-11
+Removed Pin From Net: NetName=CA Pin=P1_Chute-12
+Removed Pin From Net: NetName=VBAT Pin=P2_Chute-1
+Removed Pin From Net: NetName=VBAT Pin=P2_Chute-2
+Removed Pin From Net: NetName=VBAT Pin=P2_Chute-3
+Removed Pin From Net: NetName=VBAT Pin=P2_Chute-4
+Removed Pin From Net: NetName=VBAT Pin=P2_Chute-5
+Removed Pin From Net: NetName=VBAT Pin=P2_Chute-6
+Removed Pin From Net: NetName=GND Pin=P2_Chute-10
+Removed Pin From Net: NetName=GND Pin=P2_Chute-11
+Removed Pin From Net: NetName=GND Pin=P2_Chute-12
+Removed Pin From Net: NetName=LED_R Pin=R29-1
+Removed Pin From Net: NetName=NetLED_BALL_L_2 Pin=R29-2
+Removed Pin From Net: NetName=LED_R Pin=R30-1
+Removed Pin From Net: NetName=NetLED_BALL_R_2 Pin=R30-2
+Removed Pin From Net: NetName=Blue_led Pin=R31-1
+Removed Pin From Net: NetName=NetLED_COM_L_2 Pin=R31-2
+Removed Pin From Net: NetName=Blue_led Pin=R32-1
+Removed Pin From Net: NetName=NetLED_COM_R_2 Pin=R32-2
+Removed Pin From Net: NetName=LED_G Pin=R33-1
+Removed Pin From Net: NetName=NetLED_GREEN_L_2 Pin=R33-2
+Removed Pin From Net: NetName=LED_G Pin=R34-1
+Removed Pin From Net: NetName=NetLED_GREEN_R_2 Pin=R34-2
+Removed Pin From Net: NetName=LED_O Pin=R35-1
+Removed Pin From Net: NetName=NetLED_ORANGE_L_2 Pin=R35-2
+Removed Pin From Net: NetName=LED_O Pin=R36-1
+Removed Pin From Net: NetName=NetLED_ORANGE_R_2 Pin=R36-2
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=CD
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=CON_DRIBLE
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=DF
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=DRIBLE-MC
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=DRIBLE-MOTOR
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=INA169
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=LED1
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=LED2
+Removed Member From Class: ClassName=M0 Member=M0-MC
+Removed Member From Class: ClassName=M0 Member=M0-MOTOR
+Removed Member From Class: ClassName=M2 Member=M1-MC
+Removed Member From Class: ClassName=M2 Member=M1-MOTOR
+Removed Member From Class: ClassName=M3 Member=M2-MC
+Removed Member From Class: ClassName=M3 Member=M2-MOTOR
+Removed Member From Class: ClassName=M1 Member=M3-MC
+Removed Member From Class: ClassName=M1 Member=M3-MOTOR
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=NRF24
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=NRF_C1
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=P1_Chute
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=P2_Chute
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=R_D
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=RD1
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=RL1
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=RL2
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=RS1
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=RS2
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=SEN1
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=SEN2
+Removed Member From Class: ClassName=DIRECT Member=NetCON_DM_1
+Removed Member From Class: ClassName=DIRECT Member=NetDF_2
+Change Component Comment : Designator=R11_M0 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=R11_M1 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=R11_M2 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=R11_M3 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=RD1 Old Comment=0R02 New Comment=R2512-0R02
+Change Component Comment : Designator=MC_R1 Old Comment=4K7 New Comment=4,7k
+Change Component Comment : Designator=MC_R2 Old Comment=4K7 New Comment=4,7k
+Change Component Comment : Designator=CM1_M0 Old Comment=CAP-TANQUE New Comment=EEE-FK1C681GP
+Change Component Comment : Designator=CM1_M1 Old Comment=CAP-TANQUE New Comment=EEE-FK1C681GP
+Change Component Comment : Designator=CD Old Comment=CAP_TANQUE New Comment=EEE-FK1C681GP
+Change Component Comment : Designator=CM1_M2 Old Comment=CAP_TANQUE New Comment=EEE-FK1C681GP
+Change Component Comment : Designator=CM1_M3 Old Comment=CAP_TANQUE New Comment=EEE-FK1C681GP
+Change Component Comment : Designator=L1 Old Comment=CLF7045T New Comment=CLF7045T-4R7N-H
+Change Component Comment : Designator=CON_DRIBLE Old Comment=DRIBLE New Comment=0022112022
+Change Component Comment : Designator=INA169 Old Comment=INA169 New Comment=INA169NA
+Change Component Comment : Designator=INA169_M0 Old Comment=INA169 New Comment=INA169NA
+Change Component Comment : Designator=INA169_M1 Old Comment=INA169 New Comment=INA169NA
+Change Component Comment : Designator=INA169_M2 Old Comment=INA169 New Comment=INA169NA
+Change Component Comment : Designator=INA169_M3 Old Comment=INA169 New Comment=INA169NA
+Change Component Comment : Designator=DF Old Comment=MF-MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=FM_M0 Old Comment=MF-MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=FM_M1 Old Comment=MF-MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=FM_M2 Old Comment=MF-MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=FM_M3 Old Comment=MF-MSMF New Comment=MF-MSMF250/16X
+Change Component Comment : Designator=06x01_Conector_Male_M0 Old Comment=MOTOR 0 New Comment=0022112062
+Change Component Comment : Designator=06x01_Conector_Male_M2 Old Comment=MOTOR 1 New Comment=0022112062
+Change Component Comment : Designator=06x01_Conector_Male_M3 Old Comment=MOTOR 2 New Comment=0022112062
+Change Component Comment : Designator=06x01_Conector_Male_M1 Old Comment=MOTOR 3 New Comment=0022112062
+Change Component Comment : Designator=SW Old Comment=R1966A New Comment=R1966ABLKBLKGR
+Change Component Comment : Designator=IC4 Old Comment=STMPE811 New Comment=STMPE811QTR
+Change Component Comment : Designator=IC1 Old Comment=TPS5632 New Comment=TPS563200DDCT
+Change Component Designator: OldDesignator=CD NewDesignator=CD1
+Change Component Designator: OldDesignator=CON_DRIBLE NewDesignator=CON_DRIBLE1
+Change Component Designator: OldDesignator=DF NewDesignator=DF1
+Change Component Designator: OldDesignator=Display NewDesignator=Display1
+Change Component Designator: OldDesignator=DRIBLE-MC NewDesignator=CON_DMc1
+Change Component Designator: OldDesignator=DRIBLE-MOTOR NewDesignator=CON_DM1
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC3
+Change Component Designator: OldDesignator=ID NewDesignator=SW_id1
+Change Component Designator: OldDesignator=INA169 NewDesignator=INA1
+Change Component Designator: OldDesignator=KICK NewDesignator=Kick1
+Change Component Designator: OldDesignator=LD1117 NewDesignator=IC4
+Change Component Designator: OldDesignator=LED_BALL_L NewDesignator=LED_BALL_L1
+Change Component Designator: OldDesignator=LED_BALL_R NewDesignator=LED_BALL_R1
+Change Component Designator: OldDesignator=LED_COM_L NewDesignator=LED_COM_L1
+Change Component Designator: OldDesignator=LED_COM_R NewDesignator=LED_COM_R1
+Change Component Designator: OldDesignator=LED_GRE_L NewDesignator=LED_GREEN_L1
+Change Component Designator: OldDesignator=LED_GRE_R NewDesignator=LED_GREEN_R1
+Change Component Designator: OldDesignator=LED_ORA_L NewDesignator=LED_ORANGE_L1
+Change Component Designator: OldDesignator=LED_ORA_R NewDesignator=LED_ORANGE_R1
+Change Component Designator: OldDesignator=NRF24 NewDesignator=1
+Change Component Designator: OldDesignator=P1_Chute NewDesignator=P1
+Change Component Designator: OldDesignator=P2_Chute NewDesignator=P2
+Change Component Designator: OldDesignator=R29 NewDesignator=R12
+Change Component Designator: OldDesignator=R30 NewDesignator=R13
+Change Component Designator: OldDesignator=R31 NewDesignator=R14
+Change Component Designator: OldDesignator=R32 NewDesignator=R15
+Change Component Designator: OldDesignator=R33 NewDesignator=R6
+Change Component Designator: OldDesignator=R34 NewDesignator=R7
+Change Component Designator: OldDesignator=R35 NewDesignator=R8
+Change Component Designator: OldDesignator=R36 NewDesignator=R9
+Change Component Designator: OldDesignator=R37 NewDesignator=R5
+Change Component Designator: OldDesignator=R_D NewDesignator=R_D1
+Change Component Designator: OldDesignator=SEN1 NewDesignator=SENSOR1
+Change Component Designator: OldDesignator=SEN2 NewDesignator=SENSOR2
+Change component parameters: Designator = "RL1"; Footprint = "0402-RES-HD"; UniqueID = "\NERAPHSP\NEIKCEMO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.519"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1000X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RL2"; Footprint = "0402-RES-HD"; UniqueID = "\NERAPHSP\OQLJLMVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Cod EMS"; Value = "05.280.029.519"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "ERJ-2RKF....X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family Description"; Value = "RESISTOR FILME ESPESSO 10R-1M / 1/10W / 1% / 0402. P/N: ERJ-2RKF....X – PANASONIC ELECTRONIC COMPONENTS."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part No"; Value = "ERJ-2RKF1000X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C1_M0(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1_M1(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1_M2(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1_M3(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3_M0(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3_M1(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3_M2(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3_M3(04x01_Conector_Female)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MB_M0 Pin=C1_M0-0
+Added Pin To Net: NetName=MA_M0 Pin=C1_M0-1
+Added Pin To Net: NetName=NetC1_M0_2 Pin=C1_M0-2
+Added Pin To Net: NetName=GND Pin=C1_M0-3
+Added Pin To Net: NetName=MB_M1 Pin=C1_M1-0
+Added Pin To Net: NetName=MA_M1 Pin=C1_M1-1
+Added Pin To Net: NetName=NetC1_M1_2 Pin=C1_M1-2
+Added Pin To Net: NetName=GND Pin=C1_M1-3
+Added Pin To Net: NetName=MB_M2 Pin=C1_M2-0
+Added Pin To Net: NetName=MA_M2 Pin=C1_M2-1
+Added Pin To Net: NetName=NetC1_M2_2 Pin=C1_M2-2
+Added Pin To Net: NetName=GND Pin=C1_M2-3
+Added Pin To Net: NetName=MB_M3 Pin=C1_M3-0
+Added Pin To Net: NetName=MA_M3 Pin=C1_M3-1
+Added Pin To Net: NetName=NetC1_M3_2 Pin=C1_M3-2
+Added Pin To Net: NetName=GND Pin=C1_M3-3
+Added Pin To Net: NetName=M0_MAH Pin=C3_M0-0
+Added Pin To Net: NetName=M0_MAL Pin=C3_M0-1
+Added Pin To Net: NetName=M0_MBH Pin=C3_M0-2
+Added Pin To Net: NetName=M0_MBL Pin=C3_M0-3
+Added Pin To Net: NetName=M1_MAH Pin=C3_M1-0
+Added Pin To Net: NetName=M1_MAL Pin=C3_M1-1
+Added Pin To Net: NetName=M1_MBH Pin=C3_M1-2
+Added Pin To Net: NetName=M1_MBL Pin=C3_M1-3
+Added Pin To Net: NetName=M2_MAH Pin=C3_M2-0
+Added Pin To Net: NetName=M2_MAL Pin=C3_M2-1
+Added Pin To Net: NetName=M2_MBH Pin=C3_M2-2
+Added Pin To Net: NetName=M2_MBL Pin=C3_M2-3
+Added Pin To Net: NetName=M3_MAH Pin=C3_M3-0
+Added Pin To Net: NetName=M3_MAL Pin=C3_M3-1
+Added Pin To Net: NetName=M3_MBH Pin=C3_M3-2
+Added Pin To Net: NetName=M3_MBL Pin=C3_M3-3
+Added Pin To Net: NetName=S2 Pin=DISCO_P2-33
+Added Pin To Net: NetName=S1 Pin=DISCO_P2-38
+Added Pin To Net: NetName=VCC Pin=MC_C2-1
+Added Pin To Net: NetName=GND Pin=MC_C2-2
+Added Pin To Net: NetName=GND Pin=MC_C3-1
+Added Pin To Net: NetName=VCC Pin=MC_C3-2
+Added Pin To Net: NetName=I2C.SDA Pin=MC_R1-1
+Added Pin To Net: NetName=I2C.SCL Pin=MC_R2-1
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=VBAT Pin=P1-2
+Added Pin To Net: NetName=VBAT Pin=P1-3
+Added Pin To Net: NetName=VBAT Pin=P1-4
+Added Pin To Net: NetName=VBAT Pin=P1-5
+Added Pin To Net: NetName=VBAT Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=GND Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=CT Pin=P2-10
+Added Pin To Net: NetName=CB Pin=P2-11
+Added Pin To Net: NetName=CA Pin=P2-12
+Added Pin To Net: NetName=LED_R Pin=R6-1
+Added Pin To Net: NetName=NetLED_BALL_L_2 Pin=R6-2
+Added Pin To Net: NetName=LED_R Pin=R7-1
+Added Pin To Net: NetName=NetLED_BALL_R_2 Pin=R7-2
+Added Pin To Net: NetName=Blue_led Pin=R8-1
+Added Pin To Net: NetName=NetLED_COM_L_2 Pin=R8-2
+Added Pin To Net: NetName=Blue_led Pin=R9-1
+Added Pin To Net: NetName=NetLED_COM_R_2 Pin=R9-2
+Added Pin To Net: NetName=LED_G Pin=R12-1
+Added Pin To Net: NetName=NetLED_GREEN_L_2 Pin=R12-2
+Added Pin To Net: NetName=LED_G Pin=R13-1
+Added Pin To Net: NetName=NetLED_GREEN_R_2 Pin=R13-2
+Added Pin To Net: NetName=LED_O Pin=R14-1
+Added Pin To Net: NetName=NetLED_ORANGE_L_2 Pin=R14-2
+Added Pin To Net: NetName=LED_O Pin=R15-1
+Added Pin To Net: NetName=NetLED_ORANGE_R_2 Pin=R15-2
+Change Net Name : Old Net Name=CT New Net Name=CE
+Change Net Name : Old Net Name=CT_uc New Net Name=CE_uc
+Change Net Name : Old Net Name=NetCON_DM_1 New Net Name=NetCON_DM1_1
+Change Net Name : Old Net Name=NetDF_2 New Net Name=NetDF1_2
+Change Net Name : Old Net Name=NetLED_BALL_L_2 New Net Name=NetLED_BALL_L1_2
+Change Net Name : Old Net Name=NetLED_BALL_R_2 New Net Name=NetLED_BALL_R1_2
+Change Net Name : Old Net Name=NetLED_COM_L_2 New Net Name=NetLED_COM_L1_2
+Change Net Name : Old Net Name=NetLED_COM_R_2 New Net Name=NetLED_COM_R1_2
+Change Net Name : Old Net Name=NetLED_GREEN_L_2 New Net Name=NetLED_GREEN_L1_2
+Change Net Name : Old Net Name=NetLED_GREEN_R_2 New Net Name=NetLED_GREEN_R1_2
+Change Net Name : Old Net Name=NetLED_ORANGE_L_2 New Net Name=NetLED_ORANGE_L1_2
+Change Net Name : Old Net Name=NetLED_ORANGE_R_2 New Net Name=NetLED_ORANGE_R1_2
+Added Class: Name=MD
+Added Member To Class: ClassName=Periféricos Member=Component 1 PPPC042LFBN-RC
+Added Member To Class: ClassName=M0 Member=Component C1_M0 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M1 Member=Component C1_M1 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M2 Member=Component C1_M2 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M3 Member=Component C1_M3 (C1) PPPC041LFBN-RC
+Added Member To Class: ClassName=M0 Member=Component C3_M0 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=M1 Member=Component C3_M1 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=M2 Member=Component C3_M2 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=M3 Member=Component C3_M3 (C3) PPPC041LFBN-RC
+Added Member To Class: ClassName=Periféricos Member=Component Kick1 JS202011SCQN
+Added Member To Class: ClassName=Periféricos Member=Component LED1 0022112022
+Added Member To Class: ClassName=Periféricos Member=Component LED2 0022112022
+Added Member To Class: ClassName=Periféricos Member=Component LED_ORANGE_L1 LED
+Added Member To Class: ClassName=Periféricos Member=Component NRF_C1 100nF
+Added Member To Class: ClassName=Periféricos Member=Component P1 Header 12
+Added Member To Class: ClassName=Periféricos Member=Component P2 Header 12
+Added Member To Class: ClassName=Periféricos Member=Component RL1 100R
+Added Member To Class: ClassName=Periféricos Member=Component RL2 100R
+Added Member To Class: ClassName=Periféricos Member=Component RS1 330R
+Added Member To Class: ClassName=Periféricos Member=Component RS2 330R
+Added Member To Class: ClassName=Periféricos Member=Component SENSOR1 0022112022
+Added Member To Class: ClassName=Periféricos Member=Component SENSOR2 0022112022
+Added Member To Class: ClassName=DIRECT Member=Wire NetCON_DM1_1
+Added Member To Class: ClassName=DIRECT Member=Wire NetDF1_2

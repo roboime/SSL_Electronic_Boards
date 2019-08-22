@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=S2 Pin=DISCO_P2-33
+Removed Pin From Net: NetName=S1 Pin=DISCO_P2-38
+Removed Member From Class: ClassName=POWER Member=IC2
+Removed Member From Class: ClassName=POWER Member=R13
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=SENSOR1
+Removed Member From Class: ClassName=Mother_board_SSL2018 Member=SENSOR2
+Added Pin To Net: NetName=S1 Pin=DISCO_P2-33
+Added Pin To Net: NetName=S2 Pin=DISCO_P2-38
+Added Member To Class: ClassName=Periféricos Member=Component IC3 STMPE811QTR
+Added Member To Class: ClassName=POWER Member=Component IC4 LD1117S33CTR
+Added Member To Class: ClassName=POWER Member=Component R3 330R
