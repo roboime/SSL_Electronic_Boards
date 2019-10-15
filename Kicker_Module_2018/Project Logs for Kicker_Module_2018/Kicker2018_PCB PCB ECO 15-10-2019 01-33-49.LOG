@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=VCC Pin=L2-3
+Removed Pin From Net: NetName=VCC Pin=L2-4
+Removed Pin From Net: NetName=VCC Pin=L2-5
+Removed Pin From Net: NetName=VCC Pin=L2-6
+Removed Pin From Net: NetName=VCC Pin=LT3750-1
+Removed Pin From Net: NetName=VCC Pin=LT3750-4
+Removed Pin From Net: NetName=KICK- Pin=Q2-1
+Removed Pin From Net: NetName=KICK Pin=Q2-2
+Removed Pin From Net: NetName=CHIP_KICK- Pin=Q3-1
+Removed Pin From Net: NetName=CHIP_KICK Pin=Q3-2
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Change Component Footprint: Designator=Q2 Old Footprint=IRG4PC50FD New Footprint=INF-PG-TO247-3-44
+Change Component Footprint: Designator=Q3 Old Footprint=IRG4PC50FD New Footprint=INF-PG-TO247-3-44
+Change Component Comment : Designator=TP_S Old Comment=15V New Comment=
+Change Component Comment : Designator=TP_CHARGE_ENABLE Old Comment=CH_EN New Comment=
+Change Component Comment : Designator=CE Old Comment=CHARGE_ENABLE New Comment=SW-SPST
+Change Component Comment : Designator=Q1 Old Comment=CSD1854 New Comment=CSD18540Q5BT
+Change Component Comment : Designator=TP_D Old Comment=DONE New Comment=
+Change Component Comment : Designator=TP_G Old Comment=GATE New Comment=
+Change Component Comment : Designator=Q2 Old Comment=IRG4PC50FD New Comment=IGW50N65H5
+Change Component Comment : Designator=Q3 Old Comment=IRG4PC50FD New Comment=IGW50N65H5
+Change Component Comment : Designator=S1 Old Comment=KICK New Comment=SW-SPST
+Change Component Comment : Designator=D4 Old Comment=PMEG30 New Comment=PMEG3050EP,115
+Change Component Comment : Designator=TP_RDCM Old Comment=RDCM New Comment=
+Change Component Comment : Designator=TP_Vout Old Comment=Vout New Comment=
+Change Component Designator: OldDesignator=BAS40 NewDesignator=D5
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=TP_CHARGE_ENABLE NewDesignator=TP_CE
+Change component parameters: Designator = "Q2"; Footprint = "INF-PG-TO247-3-44"; UniqueID = "\LXIHLSZP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/DS_IGW50N65H5_1_1.pdf?folderId=db3a3043156fd5730115f56849b61941&fileId=db3a30433af5291e013af900f52c5c25&location=en.Products.IGBTs.IGBT_with_Anti-Parallel_Diode.TRENCHSTOP_5.DATASHEET.DS_IGW50N65H5_1_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/cms/packages/Leaded_and_through-hole/P-PG-TO247/P-PG-TO247-3-44.html?__locale=en"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "IGBT without Anti-Parallel Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen-free"; Value = "available"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC(max)@ 25degrees"; Value = "80 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC(max)@ 100degrees"; Value = "56 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICpuls(max)"; Value = "150 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Plastic (Green) Transistor Single Outline Package, 15.94 x 20.95 mm Body, 5.44 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PG-TO247-3-44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. 03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "IGW50N65H5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ptot(max)"; Value = "305 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency"; Value = "TRENCHSTOP5 10-120 kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCE(max)"; Value = "650 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCE(sat)(typ)"; Value = "1.65 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3"; Footprint = "INF-PG-TO247-3-44"; UniqueID = "\VEVDWKFW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/DS_IGW50N65H5_1_1.pdf?folderId=db3a3043156fd5730115f56849b61941&fileId=db3a30433af5291e013af900f52c5c25&location=en.Products.IGBTs.IGBT_with_Anti-Parallel_Diode.TRENCHSTOP_5.DATASHEET.DS_IGW50N65H5_1_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/cms/packages/Leaded_and_through-hole/P-PG-TO247/P-PG-TO247-3-44.html?__locale=en"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "IGBT without Anti-Parallel Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen-free"; Value = "available"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC(max)@ 25degrees"; Value = "80 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC(max)@ 100degrees"; Value = "56 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICpuls(max)"; Value = "150 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Plastic (Green) Transistor Single Outline Package, 15.94 x 20.95 mm Body, 5.44 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PG-TO247-3-44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. 03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "IGW50N65H5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ptot(max)"; Value = "305 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency"; Value = "TRENCHSTOP5 10-120 kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCE(max)"; Value = "650 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCE(sat)(typ)"; Value = "1.65 V"; VariantName = "[No Variations]"
+Added Component: Designator=FUSE(MF-MSMF250/16X-PCB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=FUSE-1
+Added Pin To Net: NetName=KICK Pin=Q2-1
+Added Pin To Net: NetName=KICK- Pin=Q2-2
+Added Pin To Net: NetName=CHIP_KICK Pin=Q3-1
+Added Pin To Net: NetName=CHIP_KICK- Pin=Q3-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=C5-1
+Added Pin To Net: NetName=NetC1_1 Pin=FUSE-2
+Added Pin To Net: NetName=NetC1_1 Pin=L2-3
+Added Pin To Net: NetName=NetC1_1 Pin=L2-4
+Added Pin To Net: NetName=NetC1_1 Pin=L2-5
+Added Pin To Net: NetName=NetC1_1 Pin=L2-6
+Added Pin To Net: NetName=NetC1_1 Pin=LT3750-1
+Added Pin To Net: NetName=NetC1_1 Pin=LT3750-4
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=Kicker2018 Member=Component FUSE MF-MSMF250/16X-2
