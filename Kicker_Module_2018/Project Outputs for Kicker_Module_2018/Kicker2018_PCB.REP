@@ -28,6 +28,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : Kicker2018_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : Kicker2018_PCB.GTL
 
@@ -50,6 +61,19 @@ Used DCodes :
     D35
     D36
     D37
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Kicker2018_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -81,92 +105,6 @@ Used DCodes :
     D53
     D54
     D55
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Kicker2018_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Kicker2018_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Kicker2018_PCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Kicker2018_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D12
-    D57
-    D78
-    D79
 *************************************************************
 
 *************************************************************
@@ -211,5 +149,78 @@ Used DCodes :
     D57
     D58
     D59
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Kicker2018_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Kicker2018_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D57
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Kicker2018_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
 *************************************************************
 

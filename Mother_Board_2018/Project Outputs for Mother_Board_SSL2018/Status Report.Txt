@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Mother_Board_SSL2018.PrjPcb]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Mother_Board_SSL2018.PrjPcb]
+   Generated File[Mother_board_SSL2018.TXT]
+   Generated File[Mother_board_SSL2018.LDP]
+   Generated File[Mother_board_SSL2018.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 16:32:14 On 21/02/2019
+Finished Output Generation At 10:19:19 On 22/08/2019
