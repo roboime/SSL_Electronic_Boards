@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=MC34063 Old Footprint=MC34063 New Footprint=DIP-8
+Change Component Library : Designator=MC34063 Old Library=Schlib1.SchLib New Library=KickerSchlib.SchLib
