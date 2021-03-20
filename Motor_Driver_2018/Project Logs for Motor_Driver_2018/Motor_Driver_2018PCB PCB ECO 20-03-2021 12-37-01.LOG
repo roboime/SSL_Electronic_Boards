@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=IC?-5
+Removed Pin From Net: NetName=NetC4_1 Pin=IC?-19
+Change Component Comment : Designator=IC? Old Comment=PWD13F60 New Comment=PWD13F60_1
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=85038968-1056-4BC1-B641-B37A2CB48C01 Old RevisionGUID= New RevisionGUID=056050AF-B73F-44E2-A186-954F8129579D
+Change Managed Component Library Link : Designator=C2 Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=58468BE9-524E-4DBE-8B86-0068855D9FE6 Old RevisionGUID= New RevisionGUID=CA7CE459-E564-4747-B55A-1DFFC41FBF94
+Change Managed Component Library Link : Designator=C3 Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=28CD78F8-BCAC-4B21-8BF3-1BE30B0231BA Old RevisionGUID= New RevisionGUID=929F4463-F23B-4D70-A432-FF768B77D89E
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=28CD78F8-BCAC-4B21-8BF3-1BE30B0231BA Old RevisionGUID= New RevisionGUID=929F4463-F23B-4D70-A432-FF768B77D89E
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=58468BE9-524E-4DBE-8B86-0068855D9FE6 Old RevisionGUID= New RevisionGUID=CA7CE459-E564-4747-B55A-1DFFC41FBF94
+Change Managed Component Library Link : Designator=C6 Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=85038968-1056-4BC1-B641-B37A2CB48C01 Old RevisionGUID= New RevisionGUID=056050AF-B73F-44E2-A186-954F8129579D
+Change Managed Component Library Link : Designator=C7 Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=D4736687-DCF9-47E8-B79A-325B298C468F Old RevisionGUID= New RevisionGUID=15022ABD-D32A-4881-A03A-B403F7FA44DE
+Change Managed Component Library Link : Designator=IC? Old VaultGUID= New VaultGUID=CBD6831D-FCA7-41C4-9E1B-1153C1B085DF Old ItemGUID= New ItemGUID=cff65b11-169b-4791-a57e-f1673915283b Old RevisionGUID= New RevisionGUID=16ce55a4-93e1-494b-83ac-b0a72164349c
+Added Pin To Net: NetName=NetC4_1 Pin=IC?-5
+Added Pin To Net: NetName=NetC3_2 Pin=IC?-19
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component C3 220nF
+Added Member To Class: ClassName=Motor_Driver_2018Sch Member=Component C4 220nF
